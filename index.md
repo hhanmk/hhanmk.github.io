@@ -22,7 +22,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names are listed  in alphabetical order unless marked with *.
 
 ### Conference Papers
-#### 2019
+####
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
 ##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), [[TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint version](https://eprint.iacr.org/2019/1085)]
 - "Quantum Random Oracle Model with Auxiliary Input"
@@ -31,41 +31,37 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9">Crypto 2019</a>, <a href="https://eprint.iacr.org/2018/1081">eprint version</a>]
 - "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem",
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [NutMic 2019, <a href="https://eprint.iacr.org/2019/195">erpint version</a>]
-#### 2018
 - "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem" 
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7">Crypto 2018</a>, <a href="https://eprint.iacr.org/2018/408">eprint version</a>]
         
 ### Journal Papers
-#### 2019
+#### 
 - "A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE"
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint version</a>]
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint version</a>], 2019
 - "Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*"
-##### <a href="https://kyoohyunghan.github.io/">Kyoohyung Han</a>, Minki Hhan, <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, [<a href="https://ieeexplore.ieee.org/document/8701685">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/1073">eprint version</a>]
-#### 2018
+##### <a href="https://kyoohyunghan.github.io/">Kyoohyung Han</a>, Minki Hhan, <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, [<a href="https://ieeexplore.ieee.org/document/8701685">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/1073">eprint version</a>], 2019
 - "Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards"
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://ieeexplore.ieee.org/document/8401690">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/397">eprint version</a>]
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://ieeexplore.ieee.org/document/8401690">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/397">eprint version</a>], 2018
 
 * * *
 
 ## Talks
 ### Conference Talks
-#### 2019
+####
 - "Quantum Random Oracle Model with Auxiliary Input"
-##### Dec. 9, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
+##### Dec. 9. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
-##### Dec. 2, [TCC 2019](https://tcc.iacr.org/2019/)
-#### 2018
+##### Dec. 2. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
 - "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem"
-##### Aug. 21, [Crypto 2018](https://crypto.iacr.org/2018/)
+##### Aug. 21. 2018, [Crypto 2018](https://crypto.iacr.org/2018/)
 ### Miscellaneous (including small talks)
-#### 2020
+####
 - "Introduction to security proofs in QROM"
-##### Feb. 13, KAIST
+##### Feb. 13. 2020, KAIST
 - "Verification of quantum computation, interactive proofs (and more)"
-##### Jan. 31, Seoul National University
-#### 2019
+##### Jan. 31. 2020, Seoul National University
 - "Quantum Random Oracle Model with Auxiliary Input"
-##### Jan. 18, NTT secure platform laboratories
+##### Jan. 18. 2019, NTT secure platform laboratories
 
 * * *
 
