@@ -2,6 +2,64 @@
 layout: default
 ---
 
+
+# Publication
+See also <a href="https://dblp.org/pers/hd/h/Hhan:Minki">DBLP</a> and <a href="https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=ko">Google Scholar</a>.
+See also [dblp](https://dblp.org/pers/hd/h/Hhan:Minki).
+The order of author names are listed  in alphabetical order unless marked with *.
+
+## Conference Papers
+
+#### 2019
+
+- "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
+<br/><a href="http://www.chenyilei.net/">Yilei Chen</a>, Minki Hhan, <a href="https://www.di.ens.fr/~wee/">Hoeteck Wee</a>, <a href="https://people.csail.mit.edu/vinodv/">Vinod Vaikuntanathan</a>, 
+<br/>_TCC_, <a href="https://eprint.iacr.org/2019/1085">_eprint_</a>
+
+- "Quantum Random Oracle Model with Auxiliary Input"
+<br/>Minki Hhan, <a href="http://xagawa.net/">Keita Xagawa</a>, <a href="https://sites.google.com/view/takashiyamakawa">Takashi Yamakawa</a>, 
+<br>_Asiacrypt_, 
+<a href="https://eprint.iacr.org/2019/1093">eprint</a>
+
+- "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
+<br/><a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, 
+<br/><a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9">_Crypto_</a>, 
+<a href="https://eprint.iacr.org/2018/1081">_eprint_</a>
+
+- "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem", 
+<br/><a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>,
+<br/>_NutMic_, 
+<a href="https://eprint.iacr.org/2019/195">_eprint_</a>
+
+#### 2018
+- "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem" 
+<br/><a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, 
+<br/><a href="https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7">_Crypto_</a>, 
+<a href="https://eprint.iacr.org/2018/408">_eprint_</a>
+        
+
+### Journal Papers
+<br/>
+
+#### 2019
+- "A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE"
+<br/><a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son, 
+<br/><a href="https://ieeexplore.ieee.org/document/8747481">_IEEE Access_</a>,
+<a href="https://eprint.iacr.org/2019/1114">_eprint_</a>
+
+- "Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*"
+<br/><a href="https://kyoohyunghan.github.io/">Kyoohyung Han</a>, Minki Hhan, <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, 
+<br/><a href="https://ieeexplore.ieee.org/document/8701685">_IEEE Access_</a>, 
+<a href="https://eprint.iacr.org/2018/1073">_eprint_</a>
+
+#### 2018
+- "Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards"
+<br/><a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, 
+<br/><a href="https://ieeexplore.ieee.org/document/8401690">_IEEE Access_</a>, 
+<a href="https://eprint.iacr.org/2018/397">_eprint_</a>
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
