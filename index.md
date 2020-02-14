@@ -10,7 +10,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 - 2018.10 - 2019.1: Intern student
 ###### NTT Secure Platform Laboratories, Japan<br/>Advisor: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
 - 2016.3 - current: PhD student in Mathematics
-###### Seoul National University, Republic of Korea
+###### Seoul National University, Republic of Korea<br/>Advisor: [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/)
 - 2011.3 - 2016.2: BSc in Mathematics, 
 ###### Seoul National University, Republic of Korea
 
