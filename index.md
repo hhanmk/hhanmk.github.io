@@ -52,11 +52,9 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - "Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards"
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://ieeexplore.ieee.org/document/8401690">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/397">eprint version</a>]
 
-## Research Talks
+## Talks
 
-#### 2020
-- "Introduction to security proofs in quantum random oracle model"
-##### Feb. 13, KAIST
+### Conference Talks
 
 #### 2019
 - "Quantum Random Oracle Model with Auxiliary Input"
@@ -68,4 +66,18 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 #### 2018
 - "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem"
 ##### Aug. 21, [Crypto 2018](https://crypto.iacr.org/2018/)
+
+### Miscellaneous, including small talks
+
+#### 2020
+- "Introduction to security proofs in QROM"
+##### Feb. 13, KAIST
+
+- "Verification of quantum computation, interactive proofs (and more)"
+##### Jan. 31, Seoul National University
+
+#### 2019
+- "Quantum Random Oracle Model with Auxiliary Input"
+##### Jan. 18, NTT secure platform laboratories
+
 
