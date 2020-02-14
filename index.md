@@ -88,4 +88,5 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ## Activities
-### Subreviewers<br/>Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
+### Subreviewers
+Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
