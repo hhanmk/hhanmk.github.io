@@ -22,10 +22,10 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ### Conference Papers
 
 #### 2019
-- "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation",
+- "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
 ##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), [[TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint version](https://eprint.iacr.org/2019/1085)]
 
-- "Quantum Random Oracle Model with Auxiliary Input",
+- "Quantum Random Oracle Model with Auxiliary Input"
 ##### Minki Hhan, [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [[Asiacrypt 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-34578-5_21), [eprint version](https://eprint.iacr.org/2019/1093)]
 
 - "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
@@ -81,3 +81,5 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Jan. 18, NTT secure platform laboratories
 
 
+## Activities
+### Subreviewers<br/>Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
