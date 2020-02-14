@@ -4,17 +4,15 @@ layout: default
 
 
 # Publication
-See also <a href="https://dblp.org/pers/hd/h/Hhan:Minki">DBLP</a> and <a href="https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=ko">Google Scholar</a>.
-See also [dblp](https://dblp.org/pers/hd/h/Hhan:Minki).
+See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en).
 The order of author names are listed  in alphabetical order unless marked with *.
 
 ## Conference Papers
 
-#### 2019
-
+### 2019
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
-<br/><a href="http://www.chenyilei.net/">Yilei Chen</a>, Minki Hhan, <a href="https://www.di.ens.fr/~wee/">Hoeteck Wee</a>, <a href="https://people.csail.mit.edu/vinodv/">Vinod Vaikuntanathan</a>, 
-<br/>_TCC_, <a href="https://eprint.iacr.org/2019/1085">_eprint_</a>
+[Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), 
+_TCC_, [_eprint_](https://eprint.iacr.org/2019/1085)
 
 - "Quantum Random Oracle Model with Auxiliary Input"
 <br/>Minki Hhan, <a href="http://xagawa.net/">Keita Xagawa</a>, <a href="https://sites.google.com/view/takashiyamakawa">Takashi Yamakawa</a>, 
