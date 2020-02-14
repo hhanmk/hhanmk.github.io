@@ -7,9 +7,11 @@ My name is Minki Hhan (한민기, 韓旻琪), a PhD student in Seoul National Un
 My primarily topics are quantum algorithms and (post-)quantum cryptography, but I am also intested in more broader topics such as theoretical computer science or computational complexity.
 
 ## Education and Experience
-- 2016 - current: PhD student in Mathematics
+- 2018.10 - 2019.1: Intern student
+###### NTT Secure Platform Laboratories, Japan
+- 2016.3 - current: PhD student in Mathematics
 ###### Seoul National University, Republic of Korea
-- 2011 - 2016: BSc in Mathematics, 
+- 2011.3 - 2016.2: BSc in Mathematics, 
 ###### Seoul National University, Republic of Korea
 
 
@@ -21,9 +23,7 @@ The order of author names are listed  in alphabetical order unless marked with *
 
 #### 2019
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation",
-
-[Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), 
-
+##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), 
 ##### [[_TCC 2019_]](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [[_eprint version_]](https://eprint.iacr.org/2019/1085)
 
 - "Quantum Random Oracle Model with Auxiliary Input",
