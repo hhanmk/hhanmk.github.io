@@ -19,21 +19,16 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 * * *
 
 ## Publication
-
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names are listed  in alphabetical order unless marked with *.
 
 ### Conference Papers
-
 #### 2019
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
 ##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), [[TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint version](https://eprint.iacr.org/2019/1085)]
-
 - "Quantum Random Oracle Model with Auxiliary Input"
 ##### Minki Hhan, [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [[Asiacrypt 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-34578-5_21), [eprint version](https://eprint.iacr.org/2019/1093)]
-
 - "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9">Crypto 2019</a>, <a href="https://eprint.iacr.org/2018/1081">eprint version</a>]
-
 - "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem",
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [NutMic 2019, <a href="https://eprint.iacr.org/2019/195">erpint version</a>]
 
