@@ -31,8 +31,8 @@ The order of author names are listed  in alphabetical order unless marked with *
 - "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9">Crypto 2019</a>, <a href="https://eprint.iacr.org/2018/1081">eprint version</a>]
 
-- "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem", 
-##### <br/><a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [NutMic 2019, <a href="https://eprint.iacr.org/2019/195">erpint version</a>]
+- "Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem",
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [NutMic 2019, <a href="https://eprint.iacr.org/2019/195">erpint version</a>]
 
 #### 2018
 - "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem" 
@@ -173,9 +173,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-
-<div class="col three caption">
-	Minki Hhan, Seoul National University, <a href="mailto:hhan_@snu.ac.kr">hhan_@snu.ac.kr</a>, 
-		 <br/>Room #435, Department of Mathematical Sciences, Seoul National University GwanAkRo 1, Gwanak-Gu, Seoul 08826, Korea
-
-</div>
