@@ -6,6 +6,8 @@ My name is Minki Hhan (한민기, 韓旻琪), a PhD student in Seoul National Un
 
 My primarily topics are quantum algorithms and (post-)quantum cryptography, but I am also intested in more broader topics such as theoretical computer science or computational complexity.
 
+* * *
+
 ## Education and Experience
 - 2018.10 - 2019.1: Research intern
 ##### NTT Secure Platform Laboratories, Japan<br/>Advisor: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
@@ -14,6 +16,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 - 2011.3 - 2016.2: BSc in Mathematics, 
 ##### Seoul National University, Republic of Korea
 
+* * *
 
 ## Publication
 
@@ -52,6 +55,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - "Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards"
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://ieeexplore.ieee.org/document/8401690">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/397">eprint version</a>]
 
+* * *
+
 ## Talks
 
 ### Conference Talks
@@ -80,6 +85,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - "Quantum Random Oracle Model with Auxiliary Input"
 ##### Jan. 18, NTT secure platform laboratories
 
+* * *
 
 ## Activities
 ### Subreviewers<br/>Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
