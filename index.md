@@ -16,8 +16,8 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 
 
 ## Publication
-See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en).
-The order of author names are listed  in alphabetical order unless marked with *.
+
+<font-size=-2> See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names are listed  in alphabetical order unless marked with *.
 
 ### Conference Papers
 
