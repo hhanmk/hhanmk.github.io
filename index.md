@@ -50,7 +50,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
 ##### Dec. 2. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
 - "Cryptanalysss of Branching Program Obfuscators"
-##### Aug. 21. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet`-`-Mary](https://apelletm.github.io/)
+##### Aug. 21. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
 #### Miscellaneous (including small talks)
 - "Introduction to security proofs in QROM"
