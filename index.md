@@ -7,7 +7,7 @@ My name is Minki Hhan (한민기, 韓旻琪), a PhD student in Seoul National Un
 My primarily topics are quantum algorithms and (post-)quantum cryptography, but I am also intested in more broader topics such as theoretical computer science or computational complexity.
 
 ## Education and Experience
-- 2018.10 - 2019.1: Intern student
+- 2018.10 - 2019.1: Research intern
 ##### NTT Secure Platform Laboratories, Japan<br/>Advisor: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
 - 2016.3 - current: PhD student in Mathematics
 ##### Seoul National University, Republic of Korea<br/>Advisor: [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/)
@@ -17,7 +17,6 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 
 ## Publication
 
-<font size="-2"> See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names are listed  in alphabetical order unless marked with *.
 <font size="-1"> See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names are listed  in alphabetical order unless marked with *.
 
 ### Conference Papers
