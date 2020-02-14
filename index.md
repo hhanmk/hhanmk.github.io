@@ -67,7 +67,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem"
 ##### Aug. 21, [Crypto 2018](https://crypto.iacr.org/2018/)
 
-### Miscellaneous, including small talks
+### Miscellaneous (including small talks)
 
 #### 2020
 - "Introduction to security proofs in QROM"
