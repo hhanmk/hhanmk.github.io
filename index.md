@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<font size="-1">
+
 My name is Minki Hhan (한민기, 韓旻琪), a PhD student in Seoul National University under the supervision of [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/). 
 
 My primarily topics are quantum algorithms and (post-)quantum cryptography, but I am also intested in more broader topics such as theoretical computer science or computational complexity.
@@ -65,4 +65,3 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ### Activities
 #### Subreviewers
 Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
-</font>
