@@ -8,8 +8,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 
 ## Education and Experience
 - 2018.10 - 2019.1: Intern student
-###### NTT Secure Platform Laboratories, Japan
-Advisor: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
+###### NTT Secure Platform Laboratories, Japan<br/>Advisor: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
 - 2016.3 - current: PhD student in Mathematics
 ###### Seoul National University, Republic of Korea
 - 2011.3 - 2016.2: BSc in Mathematics, 
@@ -37,7 +36,7 @@ The order of author names are listed  in alphabetical order unless marked with *
 
 #### 2018
 - "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem" 
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7"> Crypto 2018</a>, <a href="https://eprint.iacr.org/2018/408">eprint version</a>]
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7">Crypto 2018</a>, <a href="https://eprint.iacr.org/2018/408">eprint version</a>]
         
 
 ### Journal Papers
