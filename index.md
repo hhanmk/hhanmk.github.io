@@ -49,8 +49,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Dec. 9. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
 ##### Dec. 2. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
-- "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem"
-##### Aug. 21. 2018, [Crypto 2018](https://crypto.iacr.org/2018/)
+- "Cryptanalysss of Branching Program Obfuscators"
+##### Aug. 21. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
 ### Miscellaneous (including small talks)
 - "Introduction to security proofs in QROM"
