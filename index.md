@@ -23,13 +23,11 @@ The order of author names are listed  in alphabetical order unless marked with *
 
 #### 2019
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation",
-##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), 
-##### [[_TCC 2019_]](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [[_eprint version_]](https://eprint.iacr.org/2019/1085)
+##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), [[_TCC 2019_](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [_eprint version_]](https://eprint.iacr.org/2019/1085)
 
 - "Quantum Random Oracle Model with Auxiliary Input",
-Minki Hhan, [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), 
-[[_Asiacrypt 2019_]](https://link.springer.com/chapter/10.1007%2F978-3-030-34578-5_21), 
-[[_eprint version_]](https://eprint.iacr.org/2019/1093)
+##### Minki Hhan, [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), 
+[[_Asiacrypt 2019_](https://link.springer.com/chapter/10.1007%2F978-3-030-34578-5_21), [_eprint version_]](https://eprint.iacr.org/2019/1093)
 
 - "Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map"
 <br/><a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, 
