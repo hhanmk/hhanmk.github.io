@@ -8,7 +8,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 
 * * *
 
-## Education and Experience
+### Education and Experience
 - 2018.10 - 2019.1: Research intern
 ##### NTT Secure Platform Laboratories, Japan<br/>Advisor: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
 - 2016.3 - current: PhD student in Mathematics
@@ -18,10 +18,10 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 
 * * *
 
-## Publication
+### Publication
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names are listed  in alphabetical order unless marked with *.
 
-### Conference Papers
+#### Conference Papers
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
 ##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), [[TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint version](https://eprint.iacr.org/2019/1085)]
 - "Quantum Random Oracle Model with Auxiliary Input"
@@ -33,7 +33,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem" 
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7">Crypto 2018</a>, <a href="https://eprint.iacr.org/2018/408">eprint version</a>]
         
-### Journal Papers
+#### Journal Papers
 - "A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE"
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint version</a>], 2019
 - "Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*"
@@ -43,8 +43,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 * * *
 
-## Talks
-### Conference Talks
+### Talks
+#### Conference Talks
 - "Quantum Random Oracle Model with Auxiliary Input"
 ##### Dec. 9. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
@@ -52,7 +52,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - "Cryptanalysss of Branching Program Obfuscators"
 ##### Aug. 21. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
-### Miscellaneous (including small talks)
+#### Miscellaneous (including small talks)
 - "Introduction to security proofs in QROM"
 ##### Feb. 13. 2020, KAIST
 - "Verification of quantum computation, interactive proofs (and more)"
@@ -62,6 +62,6 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 * * *
 
-## Activities
-### Subreviewers
+### Activities
+#### Subreviewers
 Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
