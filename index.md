@@ -2,6 +2,16 @@
 layout: default
 ---
 
+My name is Minki Hhan (한민기, 韓旻琪), a PhD student in Seoul National University under the supervision of [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/). 
+
+My primarily topics are quantum algorithms and (post-)quantum cryptography, but I am also intested in more broader topics such as theoretical computer science or computational complexity.
+
+## Education and Experience
+- 2016 - current: PhD student in Mathematics
+###### Seoul National University, Republic of Korea
+- 2011 - 2016: BSc in Mathematics, 
+###### Seoul National University, Republic of Korea
+
 
 ## Publication
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en).
