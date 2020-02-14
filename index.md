@@ -55,9 +55,17 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ## Research Talks
 
 #### 2020
+- "Introduction to security proofs in quantum random oracle model"
+##### Feb. 13, KAIST
 
 #### 2019
+- "Quantum Random Oracle Model with Auxiliary Input"
+##### Dec. 9, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
+
+- "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
+##### Dec. 2, [TCC 2019](https://tcc.iacr.org/2019/)
 
 #### 2018
+- "Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem"
+##### Aug. 21, [Crypto 2018](https://crypto.iacr.org/2018/)
 
-This page is under construction
