@@ -121,3 +121,9 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+<div class="col three caption">
+	Minki Hhan, Seoul National University, <a href="mailto:hhan_@snu.ac.kr">hhan_@snu.ac.kr</a>, 
+		 <br/>Room #435, Department of Mathematical Sciences, Seoul National University GwanAkRo 1, Gwanak-Gu, Seoul 08826, Korea
+
+</div>
