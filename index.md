@@ -55,8 +55,6 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 #### Miscellaneous (including small talks)
 - "Introduction to security proofs in QROM"
 ##### Feb. 13. 2020, KAIST
-- "Verification of quantum computation, interactive proofs (and more)"
-##### Jan. 31. 2020, Seoul National University
 - "Quantum Random Oracle Model with Auxiliary Input"
 ##### Jan. 18. 2019, NTT secure platform laboratories
 
