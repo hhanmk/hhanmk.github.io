@@ -67,7 +67,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
 
 #### Conferences Attendee of
-- 2019
-##### [TCC](https://tcc.iacr.org/2019/),[Asiacrypt](https://asiacrypt.iacr.org/2019/),[Eurocrypt](https://eurocrypt.iacr.org/2019/),[Winter school for QC](https://iias.huji.ac.il/SchoolCSE4)
-- 2018
-##### [Crypto](https://crypto.iacr.org/2018)
+##### [[TCC 2019](https://tcc.iacr.org/2019/)], 
+[[Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)],
+[[Eurocrypt 2019](https://eurocrypt.iacr.org/2019/)], 
+[[The 4th Winter School in Computer Science and Engineering](https://iias.huji.ac.il/SchoolCSE4)],
+[[Crypto 2018](https://crypto.iacr.org/2018)]
