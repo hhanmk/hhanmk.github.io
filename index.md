@@ -60,15 +60,12 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Jan. 18. 2019, NTT secure platform laboratories, Tokyo, Korea
 - "About indistinguishability obfuscators"
 ##### Oct. 28. 2017, KMS Annual Meeting, Cheonan, Korea
+
 * * *
 
 ### Activities
 #### Subreviewers
-Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
+Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE Access
 
-#### Conferences Attendee of
-##### [[TCC 2019](https://tcc.iacr.org/2019/)], 
-[[Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)],
-[[Eurocrypt 2019](https://eurocrypt.iacr.org/2019/)], 
-[[The 4th Winter School in Computer Science and Engineering](https://iias.huji.ac.il/SchoolCSE4)],
-[[Crypto 2018](https://crypto.iacr.org/2018)]
+#### Attended Conferences
+##### [[TCC 2019](https://tcc.iacr.org/2019/)], [[Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)], [[Eurocrypt 2019](https://eurocrypt.iacr.org/2019/)], [[The 4th Winter School in Computer Science and Engineering](https://iias.huji.ac.il/SchoolCSE4)], [[Crypto 2018](https://crypto.iacr.org/2018)]
