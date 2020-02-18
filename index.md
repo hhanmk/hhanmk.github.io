@@ -49,17 +49,25 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Dec. 9. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
 - "Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation"
 ##### Dec. 2. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
-- "Cryptanalysss of Branching Program Obfuscators"
+- "Cryptanalysis of Branching Program Obfuscators"
 ##### Aug. 21. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
+
 
 #### Miscellaneous (including small talks)
 - "Introduction to security proofs in QROM"
-##### Feb. 13. 2020, KAIST
+##### Feb. 13. 2020, KAIST, Daejeon, Korea
 - "Quantum Random Oracle Model with Auxiliary Input"
-##### Jan. 18. 2019, NTT secure platform laboratories
-
+##### Jan. 18. 2019, NTT secure platform laboratories, Tokyo, Korea
+- "About indistinguishability obfuscators"
+##### Oct. 28. 2017, KMS Annual Meeting, Cheonan, Korea
 * * *
 
 ### Activities
 #### Subreviewers
 Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE-Access
+
+#### Conferences Attendee of
+- 2019
+##### [TCC](https://tcc.iacr.org/2019/),[Asiacrypt](https://asiacrypt.iacr.org/2019/),[Eurocrypt](https://eurocrypt.iacr.org/2019/),[Winter school for QC](https://iias.huji.ac.il/SchoolCSE4)
+- 2018
+##### [Crypto](https://crypto.iacr.org/2018)
