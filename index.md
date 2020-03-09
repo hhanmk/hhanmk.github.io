@@ -29,7 +29,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9">Crypto 2019</a>, <a href="https://eprint.iacr.org/2018/1081">eprint version</a>]
 - Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem,
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [NutMic 2019, <a href="https://eprint.iacr.org/2019/195">erpint version</a>]
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [NutMic 2019, <a href="https://eprint.iacr.org/2019/195">eprint version</a>]
 - Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7">Crypto 2018</a>, <a href="https://eprint.iacr.org/2018/408">eprint version</a>]
         
