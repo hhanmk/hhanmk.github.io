@@ -64,7 +64,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Activities
-I maintain the site [[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)].
+I maintain the site [[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] that introduces the status of iO, mostly focused on the current status Mmaps-based constructions regarding several attacks.
 #### Subreviewers
 Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE Access
 
