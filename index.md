@@ -19,7 +19,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 * * *
 
 ### Publication
-See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names are listed  in alphabetical order unless marked with *.
+See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names is in the alphabetical order unless marked with *.
 
 #### Conference Papers
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
@@ -46,20 +46,22 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ### Talks
 #### Conference Talks
 - Quantum Random Oracle Model with Auxiliary Input
-##### Dec. 9. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
+##### Dec. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
-##### Dec. 2. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
+##### Dec. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
 - Cryptanalysis of Branching Program Obfuscators
-##### Aug. 21. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
+##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
 
-#### Miscellaneous (including small talks)
+#### Miscellaneous (including small or introductory talks)
+- Cryptography meets Quantum Computer: Claw-free trapdoor functions and its applications in classical-quantum communications
+##### Jul. 2020, KMS Spring Meeting, Online
 - Introduction to security proofs in QROM
-##### Feb. 13. 2020, KAIST, Daejeon, Korea
+##### Feb. 2020, KAIST, Daejeon, Korea
 - Quantum Random Oracle Model with Auxiliary Input
-##### Jan. 18. 2019, NTT secure platform laboratories, Tokyo, Korea
+##### Jan. 2019, NTT secure platform laboratories, Tokyo, Korea
 - About indistinguishability obfuscators
-##### Oct. 28. 2017, KMS Annual Meeting, Cheonan, Korea
+##### Oct. 2017, KMS Annual Meeting, Cheonan, Korea
 
 * * *
 
