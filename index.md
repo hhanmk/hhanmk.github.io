@@ -54,7 +54,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 
 #### Miscellaneous (including small or introductory talks)
-- Cryptography meets Quantum Computer: Claw-free trapdoor functions and its applications in classical-quantum communications
+- Claw-free trapdoor functions and its applications in classical-quantum communications
 ##### Jul. 2020, KMS Spring Meeting, Online
 - Introduction to security proofs in QROM
 ##### Feb. 2020, KAIST, Daejeon, Korea
