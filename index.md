@@ -68,9 +68,6 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Activities
-I maintain the site [[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] that introduces the status of iO constructions.
+I had maintained the site [[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] that introduces the status of iO constructions.
 #### Subreviewers
 Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE Access
-
-#### Attended Conferences (Offline)
-##### [[Eurocrypt 2020 (Online)](https://eurocrypt.iacr.org/2020/)], [[TCC 2019](https://tcc.iacr.org/2019/)], [[Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)], [[Eurocrypt 2019](https://eurocrypt.iacr.org/2019/)], [[The 4th Winter School in Computer Science and Engineering](https://iias.huji.ac.il/SchoolCSE4)], [[Crypto 2018](https://crypto.iacr.org/2018)]
