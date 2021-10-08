@@ -54,6 +54,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 
 #### Miscellaneous (including small or introductory talks)
+- Quantum attacks on symmetric key crypto beyond Grover's algorithm
+##### Oct. 2021, SNU, QST Seminar, Online
 - Claw-free trapdoor functions and its applications in classical-quantum communications
 ##### Jul. 2020, KMS Spring Meeting, Online
 - Introduction to security proofs in QROM
