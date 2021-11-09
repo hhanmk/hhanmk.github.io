@@ -71,3 +71,5 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 I had maintained the site [[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] that introduces the status of iO constructions.
 #### Subreviewers
 Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE Access
+#### Programming
+I am really, really occasionally participate some programming competitions, e.g. Samsung Collegiate Programming Cup 2017 and Google Hash Code 2021.
