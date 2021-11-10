@@ -3,8 +3,6 @@ layout: default
 title: Minki Hhan
 description: My Favorites
 ---
-
-### My Favorites
 This page collects random research-related things that I recommend.
 
 #### Lecture/Survey/Exposition
