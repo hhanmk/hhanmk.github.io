@@ -74,5 +74,5 @@ I am occasionally participate some programming competitions, e.g. Samsung Colleg
 #### Other pages
 [[This page](./collection.html)] collects my favorite research-related things.   
 [[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] had been maintained that introduces the status of iO constructions.   
-[[Pseudorandom Things](https://pseudorandomstring.wordpress.com/)] is my blog for posting random research-like things outside of my topics.   
+[[Pseudorandom Things](https://pseudorandomstring.wordpress.com/)] is my (Korean) blog for posting random research-like topics.   
 You can find me on [[Twitter](https://twitter.com/MinkiHhan)], [[ResearchGate](https://www.researchgate.net/profile/Minki-Hhan)], or [[LinkedIn](https://www.linkedin.com/in/minki-hhan-b8683a193/)].
