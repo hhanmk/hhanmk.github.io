@@ -70,9 +70,9 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 #### Subreviewers
 Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE Access
 #### Programming
-I am really, really occasionally participate some programming competitions, e.g. Samsung Collegiate Programming Cup 2017 and Google Hash Code 2021.
+I am occasionally participate some programming competitions, e.g. Samsung Collegiate Programming Cup 2017 and Google Hash Code 2021.
 #### Other pages
-[[MyFavorites](./collection.html)] collects my favorite research-related things.
+[[This page](./collection.html)] collects my favorite research-related things.
 
 [[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] had been maintained that introduces the status of iO constructions.
 
