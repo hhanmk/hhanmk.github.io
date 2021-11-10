@@ -72,6 +72,10 @@ Crypto, Asiacrypt, PKC, CT-RSA, PQCrypt, WAHC, IEEE Access
 #### Programming
 I am really, really occasionally participate some programming competitions, e.g. Samsung Collegiate Programming Cup 2017 and Google Hash Code 2021.
 #### Other pages
-[[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] had been maintained that introduces the status of iO constructions, before iO from well-founded assumptions is presented.
+[[MyFavorites](./collection.html)] collects my favorite research-related things.
+
+[[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] had been maintained that introduces the status of iO constructions.
+
 [[Pseudorandom Things](https://pseudorandomstring.wordpress.com/)] is my blog for posting random research-like things outside of my topics.
+
 You can find me on [[Twitter](https://twitter.com/MinkiHhan)], [[ResearchGate](https://www.researchgate.net/profile/Minki-Hhan)], or [[LinkedIn](https://www.linkedin.com/in/minki-hhan-b8683a193/)].
