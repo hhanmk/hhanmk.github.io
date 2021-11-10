@@ -8,6 +8,10 @@ This page collects random research-related things that I recommend.
 
 * * *
 
+#### Papers
+- How to Construct Quantum Random Functions
+##### Mark Zhandry [[FOCS 2012](https://ieeexplore.ieee.org/document/6375347), [eprint](https://eprint.iacr.org/2012/182), [Journal of ACM 2021](https://dl.acm.org/doi/fullHtml/10.1145/3450745)]
+
 #### Lecture/Survey/Exposition
 - The Cryptographic Hardness of Random Local Functions -- Survey   
 ##### Benny Applebaum, [[TCC 2013](https://link.springer.com/chapter/10.1007/978-3-642-36594-2_33), [eprint](https://eprint.iacr.org/2015/165)]
