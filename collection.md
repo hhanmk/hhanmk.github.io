@@ -5,8 +5,7 @@ description: My Favorites
 ---
 
 ## My Favorites
-
-* * *
+This page collects random research-related things that I recommend.
 
 #### Research Papers
 
