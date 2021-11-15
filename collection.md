@@ -12,7 +12,7 @@ This page collects random research-related things that I recommend.
 - How to Construct Quantum Random Functions
 ##### Mark Zhandry [[eprint](https://eprint.iacr.org/2012/182), [FOCS 2012](https://ieeexplore.ieee.org/document/6375347), [Journal of ACM 2021](https://dl.acm.org/doi/fullHtml/10.1145/3450745)]
 - How to Use Indistinguishability Obfuscation: Deniable Encryption, and More
-##### Amit Sahai, Brent Waters [[eprint](https://eprint.iacr.org/2013/454), STOC 2014(https://dl.acm.org/doi/10.1145/2591796.2591825)]
+##### Amit Sahai, Brent Waters [[eprint](https://eprint.iacr.org/2013/454), [STOC 2014](https://dl.acm.org/doi/10.1145/2591796.2591825)]
 - Quantum singular value transformation and beyond: exponential improvements for quantum matrix arithmetics
 ##### András Gilyén, Yuan Su, Guang Hao Low, Nathan Wiebe [[arxiv](https://arxiv.org/abs/1806.01838), [STOC 2019](https://dl.acm.org/doi/10.1145/3313276.3316366)]
 
