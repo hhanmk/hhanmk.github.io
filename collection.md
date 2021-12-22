@@ -26,7 +26,10 @@ This page collects random research-related things that I recommend.
 ##### Thomas Vidick, [[Notice of AMS 2019](https://www.ams.org/journals/notices/201910/rnoti-p1618.pdf)]
 - Interactive proofs with quantum devices 
 ##### Thomas Vidick, [[Page](http://users.cms.caltech.edu/~vidick/teaching/fsmp/), [Lecture Note](http://users.cms.caltech.edu/~vidick/teaching/fsmp/fsmp.pdf)]
-
+- Quantum Computing: Lecture Notes
+##### Ronald de Wolf, [[arxiv](https://arxiv.org/abs/1907.09415)]
+- Analysis of Boolean Functions
+##### Ryan O'donnell [[arxiv](https://arxiv.org/abs/2105.10386)]
 
 * * *
 
