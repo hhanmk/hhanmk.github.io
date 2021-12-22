@@ -29,7 +29,7 @@ This page collects random research-related things that I recommend.
 - Quantum Computing: Lecture Notes
 ##### Ronald de Wolf, [[arxiv](https://arxiv.org/abs/1907.09415)]
 - Analysis of Boolean Functions
-##### Ryan O'donnell [[arxiv](https://arxiv.org/abs/2105.10386)]
+##### Ryan O'donnell, [[arxiv](https://arxiv.org/abs/2105.10386)]
 
 * * *
 
