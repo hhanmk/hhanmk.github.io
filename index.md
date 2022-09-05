@@ -2,19 +2,25 @@
 layout: default
 ---
 
-My name is Minki Hhan (한민기, 韓旻琪), a PhD student in Seoul National University under the supervision of [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/). 
+My name is Minki Hhan (한민기, 韓旻琪), a researcher in KIAS, Seoul.
 
 My primarily topics are quantum algorithms and (post-)quantum cryptography, but I am also intested in more broader topics such as theoretical computer science or computational complexity.
 
 * * *
 
-### Education and Experience
+### Education
+- 2022.9 - current: QUC Research Fellow,
+##### Korea Institute for Advanced Science (KIAS), Republic of Korea
+- 2016.3 - 2022.8: PhD in Mathematics,
+##### Seoul National University (SNU), Republic of Korea<br/>Advisor: [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/)
+- 2011.3 - 2016.2: BSc in Mathematics, 
+##### Seoul National University (SNU), Republic of Korea
+
+
+### Experience
 - 2018.10 - 2019.1: Research intern
 ##### NTT Secure Platform Laboratories, Japan<br/>Advisor: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
-- 2016.3 - current: PhD student in Mathematics
-##### Seoul National University, Republic of Korea<br/>Advisor: [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/)
-- 2011.3 - 2016.2: BSc in Mathematics, 
-##### Seoul National University, Republic of Korea
+
 
 * * *
 
