@@ -60,6 +60,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 
 #### Miscellaneous (including small or introductory talks)
+- Complexity theory meets mathematics
+##### Aug. 2022, Workshop on Quantum Analysis, Gangneung
 - Quantum attacks on symmetric key crypto beyond Grover's algorithm
 ##### Oct. 2021, SNU, QST Seminar, Online
 - Claw-free trapdoor functions and its applications in classical-quantum communications
