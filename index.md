@@ -62,13 +62,13 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 #### Miscellaneous (including review or introductory talks)
 - Complexity theory meets mathematics
 ##### Aug. 2022, Workshop on Quantum Analysis, Gangneung, Korea
-- On influence of block-multilinear polynomials (review)
+- On influence of block-multilinear polynomials
 ##### Jul. 2022, SNU, Korea
-- Cryptographic Algorithms for Quantum Computations (thesis defense)
-##### Jun. 2022, SNU, Korea
-- Quantum attacks on symmetric key crypto beyond Grover's algorithm (survey)
+- Cryptographic Algorithms for Quantum Computations
+##### Jun. 2022, Thesis defense, SNU, Korea
+- Quantum attacks on symmetric key crypto beyond Grover's algorithm
 ##### Oct. 2021, SNU, QST Seminar, Online
-- Claw-free trapdoor functions and its applications in classical-quantum communications (survey)
+- Claw-free trapdoor functions and its applications in classical-quantum communications
 ##### Jul. 2020, KMS Spring Meeting, Online
 - Introduction to security proofs in QROM
 ##### Feb. 2020, KAIST, Daejeon, Korea
