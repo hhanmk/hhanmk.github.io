@@ -59,12 +59,16 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
 
-#### Miscellaneous (including small or introductory talks)
+#### Miscellaneous (including review or introductory talks)
 - Complexity theory meets mathematics
 ##### Aug. 2022, Workshop on Quantum Analysis, Gangneung, Korea
-- Quantum attacks on symmetric key crypto beyond Grover's algorithm
+- On influence of block-multilinear polynomials (review)
+##### Jul. 2022, SNU, Korea
+- Cryptographic Algorithms for Quantum Computations (thesis defense)
+##### Jun. 2022, SNU, Korea
+- Quantum attacks on symmetric key crypto beyond Grover's algorithm (survey)
 ##### Oct. 2021, SNU, QST Seminar, Online
-- Claw-free trapdoor functions and its applications in classical-quantum communications
+- Claw-free trapdoor functions and its applications in classical-quantum communications (survey)
 ##### Jul. 2020, KMS Spring Meeting, Online
 - Introduction to security proofs in QROM
 ##### Feb. 2020, KAIST, Daejeon, Korea
