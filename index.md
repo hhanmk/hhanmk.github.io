@@ -29,23 +29,27 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 #### Conference Papers
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
-##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), [[TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint version](https://eprint.iacr.org/2019/1085)]
+##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), [[TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint](https://eprint.iacr.org/2019/1085)]
 - Quantum Random Oracle Model with Auxiliary Input
-##### Minki Hhan, [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [[Asiacrypt 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-34578-5_21), [eprint version](https://eprint.iacr.org/2019/1093)]
+##### Minki Hhan, [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [[Asiacrypt 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-34578-5_21), [eprint](https://eprint.iacr.org/2019/1093)]
 - Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9">Crypto 2019</a>, <a href="https://eprint.iacr.org/2018/1081">eprint version</a>]
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9">Crypto 2019</a>, <a href="https://eprint.iacr.org/2018/1081">eprint</a>]
 - Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem,
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [NutMic 2019, <a href="https://eprint.iacr.org/2019/195">eprint version</a>]
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [NutMic 2019, <a href="https://eprint.iacr.org/2019/195">eprint</a>]
 - Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7">Crypto 2018</a>, <a href="https://eprint.iacr.org/2018/408">eprint version</a>]
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7">Crypto 2018</a>, <a href="https://eprint.iacr.org/2018/408">eprint</a>]
         
 #### Journal Papers
 - A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint version</a>], 2019
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint</a>], 2019
 - Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
-##### <a href="https://kyoohyunghan.github.io/">Kyoohyung Han</a>, Minki Hhan, <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, [<a href="https://ieeexplore.ieee.org/document/8701685">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/1073">eprint version</a>], 2019
+##### <a href="https://kyoohyunghan.github.io/">Kyoohyung Han</a>, Minki Hhan, <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, [<a href="https://ieeexplore.ieee.org/document/8701685">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/1073">eprint</a>], 2019
 - Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://ieeexplore.ieee.org/document/8401690">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/397">eprint version</a>], 2018
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [<a href="https://ieeexplore.ieee.org/document/8401690">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/397">eprint</a>], 2018
+
+#### Priprints
+- From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [arxiv](https://arxiv.org/abs/2210.05978)], 2022
 
 * * *
 
@@ -60,12 +64,14 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 
 #### Miscellaneous (including review or introductory talks)
+- On locality sensitive hashing and more
+##### Oct. 2022, Hanyang University, Seoul, Korea
 - Complexity theory meets mathematics
 ##### Aug. 2022, Workshop on Quantum Analysis, Gangneung, Korea
 - On influence of block-multilinear polynomials
-##### Jul. 2022, SNU, Korea
+##### Jul. 2022, SNU, Seoul, Korea
 - Cryptographic Algorithms for Quantum Computations
-##### Jun. 2022, Thesis defense, SNU, Korea
+##### Jun. 2022, Thesis defense, SNU, Seoul, Korea
 - Quantum attacks on symmetric key crypto beyond Grover's algorithm
 ##### Oct. 2021, SNU, QST Seminar, Online
 - Claw-free trapdoor functions and its applications in classical-quantum communications
