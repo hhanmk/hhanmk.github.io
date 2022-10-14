@@ -49,7 +49,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 #### Priprints
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [arxiv](https://arxiv.org/abs/2210.05978)], 2022
+##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [[arxiv](https://arxiv.org/abs/2210.05978)], 2022
 
 * * *
 
