@@ -39,7 +39,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
         
 #### Journal Papers
 - Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem,
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html),NutMic 2019, [eprint](https://eprint.iacr.org/2019/195)]
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), NutMic 2019, [eprint](https://eprint.iacr.org/2019/195)]
 - A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint</a>], 2019
 - Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
@@ -49,7 +49,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 #### Priprints
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [[eprint](https://eprint.iacr.org/2022/1375),[arxiv](https://arxiv.org/abs/2210.05978)], 2022
+##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [[eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)], 2022
 
 * * *
 
