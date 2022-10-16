@@ -41,7 +41,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem,
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, <a href="http://perso.ens-lyon.fr/changmin.lee/">Changmin Lee</a>, [[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), NutMic 2019, [eprint](https://eprint.iacr.org/2019/195)]
 - A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, Seungwan Hong, Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint</a>], 2019
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, [Seungwan Hong](https://swanhong.github.io/), Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint</a>], 2019
 - Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
 ##### <a href="https://kyoohyunghan.github.io/">Kyoohyung Han</a>, Minki Hhan, <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, [<a href="https://ieeexplore.ieee.org/document/8701685">IEEE Access</a>, <a href="https://eprint.iacr.org/2018/1073">eprint</a>], 2019
 - Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
