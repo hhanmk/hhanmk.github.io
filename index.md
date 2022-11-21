@@ -66,6 +66,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 
 #### Miscellaneous (including review or introductory talks)
+- Cryptographic Models vs. Quantum Algorithms: Oracle models and QRAM
+##### Nov. 2022, KIAS, Seoul, Korea
 - On locality sensitive hashing and more
 ##### Oct. 2022, Hanyang University, Seoul, Korea
 - Complexity theory meets mathematics
