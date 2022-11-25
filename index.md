@@ -24,7 +24,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 
 * * *
 
-### Publication
+### Publications
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names is in the alphabetical order unless marked with *.
 
 #### Conference Presentations
@@ -66,6 +66,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 
 #### Miscellaneous (including review or introductory talks)
+- Quantum Computations vs. Post-quantum Cryptography (2022)
+##### Nov. 2022, Desilo, Seoul, Korea
 - Cryptographic Models vs. Quantum Algorithms: Oracle models and QRAM
 ##### Nov. 2022, KIAS, Seoul, Korea
 - On locality sensitive hashing and more
