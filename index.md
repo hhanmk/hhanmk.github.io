@@ -66,6 +66,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 
 #### Miscellaneous (including review or introductory talks)
+- From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+##### Nov. 2022, KIAS, Seoul, Korea
 - Quantum Computations vs. Post-quantum Cryptography (2022)
 ##### Nov. 2022, Desilo, Seoul, Korea
 - Cryptographic Models vs. Quantum Algorithms: Oracle models and QRAM
