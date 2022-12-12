@@ -58,7 +58,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ### Talks
 #### Conference Talks
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/))
+##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (an affiliated event of [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/))
 - Quantum Random Oracle Model with Auxiliary Input
 ##### Dec. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
