@@ -64,6 +64,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Dec. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
 - Cryptanalysis of Branching Program Obfuscators
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/) <br/> Oct. 2017, KMS Annual Meeting, Cheonan, Korea
+- Introduction to Quantum Computating and Quantum Cryptanalysis
+##### Dec. 2022, KAIST, Daejeon, Korea
 - Quantum Computations vs. Post-quantum Cryptography (2022)
 ##### Nov. 2022, Desilo, Seoul, Korea
 - Cryptographic Models vs. Quantum Algorithms: Oracle models and QRAM
