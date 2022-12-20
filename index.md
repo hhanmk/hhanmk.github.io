@@ -29,7 +29,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 #### Conference Presentations
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [QCW 2022, QIP 2023, [eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)]
+##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), [[QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/), [QIP 2023](https://indico.cern.ch/event/1175020/), [eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)]
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
 ##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/), [[TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint](https://eprint.iacr.org/2019/1085)]
 - Quantum Random Oracle Model with Auxiliary Input
@@ -41,7 +41,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
         
 #### Journal Articles
 - Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem,
-##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee, [[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), NutMic 2019, [eprint](https://eprint.iacr.org/2019/195)]
+##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee, [[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), [NutMic 2019](http://nutmic2019.imj-prg.fr/), [eprint](https://eprint.iacr.org/2019/195)]
 - A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
 ##### <a href="http://www.math.snu.ac.kr/~jhcheon/xe2/">Jung Hee Cheon</a>, Minki Hhan, [Seungwan Hong](https://swanhong.github.io/), Yongha Son, [<a href="https://ieeexplore.ieee.org/document/8747481">IEEE Access</a>, <a href="https://eprint.iacr.org/2019/1114">eprint</a>], 2019
 - Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
