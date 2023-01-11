@@ -56,6 +56,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Talks
+
+#### International
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br/> Nov. 2022, KIAS, Seoul, Korea
 - Quantum Random Oracle Model with Auxiliary Input
@@ -64,6 +66,10 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Dec. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
 - Cryptanalysis of Branching Program Obfuscators
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/) <br/> Oct. 2017, KMS Annual Meeting, Cheonan, Korea
+
+#### Domestic
+- Compressed Quantum Random Oracles and Applications
+##### Jan. 2023, KAIST, Daejeon, Korea
 - Introduction to Quantum Computing and Quantum Cryptanalysis
 ##### Dec. 2022, KAIST, Daejeon, Korea
 - Quantum Computations vs. Post-quantum Cryptography (2022)
