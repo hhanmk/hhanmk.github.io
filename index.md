@@ -70,6 +70,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
 #### Domestic
+- From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+##### Jan. 2023, SNU, QST Seminar, Online
 - Compressed Quantum Random Oracles and Applications
 ##### Jan. 2023, KAIST, Daejeon, Korea
 - Introduction to Quantum Computing and Quantum Cryptanalysis
