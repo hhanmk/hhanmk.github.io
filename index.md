@@ -43,13 +43,13 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
         
 #### Journal Articles
 - Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem,
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee <br>[Journal of Mathematical Cryptology (2020)](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), [NutMic 2019](http://nutmic2019.imj-prg.fr/), [eprint](https://eprint.iacr.org/2019/195)
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee <br>[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), [NutMic 2019](http://nutmic2019.imj-prg.fr/), [eprint](https://eprint.iacr.org/2019/195), 2020
 - A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, [Seungwan Hong](https://swanhong.github.io/), Yongha Son <br> [IEEE Access (2019)](https://ieeexplore.ieee.org/document/8747481), [eprint](https://eprint.iacr.org/2019/1114)
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, [Seungwan Hong](https://swanhong.github.io/), Yongha Son <br> [IEEE Access](https://ieeexplore.ieee.org/document/8747481), [eprint](https://eprint.iacr.org/2019/1114), 2019
 - Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
-##### [Kyoohyung Han](https://kyoohyunghan.github.io/), Minki Hhan, [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/) <br> [IEEE Access (2019)](https://ieeexplore.ieee.org/document/8701685), [eprint](https://eprint.iacr.org/2018/1073)
+##### [Kyoohyung Han](https://kyoohyunghan.github.io/), Minki Hhan, [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/) <br> [IEEE Access](https://ieeexplore.ieee.org/document/8701685), [eprint](https://eprint.iacr.org/2018/1073), 2019
 - Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access (2018)](https://ieeexplore.ieee.org/document/8401690), [eprint](https://eprint.iacr.org/2018/397)
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://ieeexplore.ieee.org/document/8401690), [eprint](https://eprint.iacr.org/2018/397), 2018
 
 #### Priprints
 - How to Meet Ternary LWE Keys on Babai’s Nearest Plane
