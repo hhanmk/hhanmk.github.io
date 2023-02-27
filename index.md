@@ -51,7 +51,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://ieeexplore.ieee.org/document/8401690), [eprint](https://eprint.iacr.org/2018/397), 2018
 
-#### Priprints
+#### Preprints
 - How to Meet Ternary LWE Keys on Babai’s Nearest Plane
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
 
