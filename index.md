@@ -10,7 +10,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 
 ### Current Position
 - 2022.9 - current: QUC Research Fellow,
-##### Korea Institute for Advanced Science (KIAS), Republic of Korea
+##### Korea Institute for Advanced Study (KIAS), Republic of Korea
 
 ### Education
 - 2016.3 - 2022.8: PhD in Mathematics,
