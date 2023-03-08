@@ -104,7 +104,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 #### Program Committee
-Latincrypt2023
+LATINCRYPT 2023
 #### Subreviewer
 Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC, IEEE Access
 #### Programming
