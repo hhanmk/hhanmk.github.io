@@ -71,35 +71,37 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 #### Domestic
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+##### Mar. 2023, National Security Research Institute, Daejeon
+- From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Jan. 2023, SNU, QST Seminar, Online
 - Compressed Quantum Random Oracles and Applications
-##### Jan. 2023, KAIST, Daejeon, Korea
+##### Jan. 2023, KAIST, Daejeon
 - Introduction to Quantum Computing and Quantum Cryptanalysis
-##### Dec. 2022, KAIST, Daejeon, Korea
+##### Dec. 2022, KAIST, Daejeon
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Nov. 2022, KIAS, Seoul, Korea
+##### Nov. 2022, KIAS, Seoul
 - Quantum Computations vs. Post-quantum Cryptography (2022)
-##### Nov. 2022, Desilo, Seoul, Korea
+##### Nov. 2022, Desilo, Seoul
 - Cryptographic Models vs. Quantum Algorithms: Oracle models and QRAM
-##### Nov. 2022, KIAS, Seoul, Korea
+##### Nov. 2022, KIAS, Seoul
 - On locality sensitive hashing and more
-##### Oct. 2022, Hanyang University, Seoul, Korea
+##### Oct. 2022, Hanyang University, Seoul
 - Complexity theory meets mathematics
-##### Aug. 2022, Workshop on Quantum Analysis, Gangneung, Korea
+##### Aug. 2022, Workshop on Quantum Analysis, Gangneung
 - On influence of block-multilinear polynomials
-##### Jul. 2022, SNU, Seoul, Korea
+##### Jul. 2022, SNU, Seoul
 - Cryptographic Algorithms for Quantum Computations
-##### Jun. 2022, Thesis defense, SNU, Seoul, Korea
+##### Jun. 2022, Thesis defense, SNU, Seoul
 - Quantum attacks on symmetric key crypto beyond Grover's algorithm
 ##### Oct. 2021, SNU, QST Seminar, Online
 - Claw-free trapdoor functions and its applications in classical-quantum communications
 ##### Jul. 2020, KMS Spring Meeting, Online
 - Introduction to security proofs in QROM
-##### Feb. 2020, KAIST, Daejeon, Korea
+##### Feb. 2020, KAIST, Daejeon
 - Quantum Random Oracle Model with Auxiliary Input
 ##### Jan. 2019, NTT secure platform laboratories, Tokyo, Japan
 - Cryptanalysis of Branching Program Obfuscators
-##### Oct. 2017, KMS Annual Meeting, Cheonan, Korea
+##### Oct. 2017, KMS Annual Meeting, Cheonan
 
 * * *
 
