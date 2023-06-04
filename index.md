@@ -14,7 +14,7 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 
 #### Education
 - 2016.3 - 2022.8: PhD in Mathematics,
-##### Seoul National University (SNU), Republic of Korea<br/>Advisor: [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/)
+##### Seoul National University (SNU), Republic of Korea (Advisor: [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/))
 - 2011.3 - 2016.2: BSc in Mathematics, 
 ##### Seoul National University (SNU), Republic of Korea
 
@@ -28,9 +28,9 @@ LATINCRYPT 2023
 
 #### Experience
 - 2023.06: Visiting scholar
-##### Academia Sinica, Taiwan, Host: [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/)
+##### Academia Sinica, Taiwan, (Host: [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/))
 - 2018.10 - 2019.1: Research intern
-##### NTT Secure Platform Laboratories, Japan, Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
+##### NTT Secure Platform Laboratories, Japan, (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
 
 #### Invited Talk
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
@@ -80,6 +80,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Domestic Talks
+- Quantum Computers and Algorithms, Computer Scientists’ Perspective
+##### May. 2023, Korea University, Seoul
 - From the Hardness of Detecting Superpositions to Cryptography, and little bit more
 ##### May. 2023, Academia Sinica, Taipei, Taiwan
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
