@@ -12,14 +12,24 @@ My primarily topics are quantum algorithms and (post-)quantum cryptography, but 
 - 2022.9 - current: QUC Research Fellow,
 ##### Korea Institute for Advanced Study (KIAS), Republic of Korea
 
-### Education
+#### Education
 - 2016.3 - 2022.8: PhD in Mathematics,
 ##### Seoul National University (SNU), Republic of Korea<br/>Advisor: [Hun Hee Lee](http://www.math.snu.ac.kr/~hhlee/)
 - 2011.3 - 2016.2: BSc in Mathematics, 
 ##### Seoul National University (SNU), Republic of Korea
 
+* * *
 
-### Experience
+### Research Activity
+
+#### Program Committee
+LATINCRYPT 2023
+#### Subreviewer
+Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC, IEEE Access
+
+#### Experience
+- 2023.06: Visiting scholar
+##### Academia Sinica, Taiwan<br/>Host: [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/)
 - 2018.10 - 2019.1: Research intern
 ##### NTT Secure Platform Laboratories, Japan<br/>Advisor: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)
 
@@ -61,7 +71,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 #### International
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/)
+##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/) <br> Apr. 2023, [Eurocrypt 2023](https://eurocrypt.iacr.org/2023/)
 - Quantum Random Oracle Model with Auxiliary Input
 ##### Dec. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
@@ -107,10 +117,6 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 * * *
 
-#### Program Committee
-LATINCRYPT 2023
-#### Subreviewer
-Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC, IEEE Access
 #### Programming
 I am occasionally participate some programming competitions, e.g. Samsung Collegiate Programming Cup 2017 and Google Hash Code 2021.
 #### Other pages
