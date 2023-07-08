@@ -76,6 +76,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 #### Preprints
 - How to Meet Ternary LWE Keys on Babai’s Nearest Plane
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
+- Quantum Complexity for Discrete Logarithms and Related Problems
+##### Minki Hhan, Takashi Yamakawa, Aaram Yun <br> [arixv](https://arxiv.org/abs/2307.03065), [AQIS 2023](http://aqis-conf.org/2023/) (Long talk), 2023
 
 * * *
 
