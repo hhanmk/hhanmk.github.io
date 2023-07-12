@@ -34,7 +34,7 @@ LATINCRYPT 2023
 
 #### Invited Talk
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Jul. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
+##### Aug. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
 
 #### International Conference Talks
 - Quantum Complexity for Discrete Logarithms and Related Problems
