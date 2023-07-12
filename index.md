@@ -4,7 +4,7 @@ layout: default
 
 My name is Minki Hhan (한민기, 韓旻琪), a researcher in KIAS, Seoul.
 
-My primarily topics are quantum algorithms and (post-)quantum cryptography, but I am also intested in more broader topics such as theoretical computer science or computational complexity.
+My primary topics are quantum algorithms and (post-)quantum cryptography, but I am also interested in more broader topics such as theoretical computer science or computational complexity.
 
 * * *
 
@@ -37,8 +37,10 @@ LATINCRYPT 2023
 ##### Jul. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
 
 #### International Conference Talks
+- Quantum Complexity for Discrete Logarithms and Related Problems
+##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (long talk)
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/) <br> Apr. 2023, [Eurocrypt 2023](https://eurocrypt.iacr.org/2023/)
+##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/) <br> Apr. 2023, [Eurocrypt 2023](https://eurocrypt.iacr.org/2023/) <br> Aug. 2023 [AQIS 2023](http://aqis-conf.org/2023/)
 - Quantum Random Oracle Model with Auxiliary Input
 ##### Dec. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
@@ -77,16 +79,20 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - How to Meet Ternary LWE Keys on Babai’s Nearest Plane
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
 - Quantum Complexity for Discrete Logarithms and Related Problems
-##### Minki Hhan, Takashi Yamakawa, Aaram Yun <br> [arixv](https://arxiv.org/abs/2307.03065), [AQIS 2023](http://aqis-conf.org/2023/) (Long talk), 2023
+##### Minki Hhan, Takashi Yamakawa, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065), [AQIS 2023](http://aqis-conf.org/2023/) (Long talk), 2023
 
 * * *
 
 ### Domestic Talks
+- Quantum Complexity for Discrete Logarithms and Related Problems
+##### Jul. 2023, EWHA-KMS International Workshop on Cryptography, Seoul
+- Quantum Complexity for Discrete Logarithms and Related Problems
+##### Jul. 2023, Electronics and Telecommunications Research Institute, Daejeon
 - Review on the Quantum Dynamic Programming Algorithms
 ##### Jun. 2023, KIAS, Seoul
 - Quantum Computers and Algorithms, Computer Scientists’ Perspective
 ##### May. 2023, Korea University, Seoul
-- From the Hardness of Detecting Superpositions to Cryptography, and little bit more
+- From the Hardness of Detecting Superpositions to Cryptography, and a little bit more
 ##### May. 2023, Academia Sinica, Taipei, Taiwan
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Mar. 2023, National Security Research Institute, Daejeon
@@ -102,7 +108,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Nov. 2022, Desilo, Seoul
 - Cryptographic Models vs. Quantum Algorithms: Oracle models and QRAM
 ##### Nov. 2022, KIAS, Seoul
-- On locality sensitive hashing and more
+- On locality-sensitive hashing and more
 ##### Oct. 2022, Hanyang University, Seoul
 - Complexity theory meets mathematics
 ##### Aug. 2022, Workshop on Quantum Analysis, Gangneung
@@ -124,9 +130,9 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 #### Programming
-I am occasionally participate some programming competitions, e.g. Samsung Collegiate Programming Cup 2017 and Google Hash Code 2021.
+I occasionally participate in programming competitions, e.g., Samsung Collegiate Programming Cup 2017 and Google Hash Code 2021.
 #### Other pages
 [[This page](./collection.html)] collects my favorite research-related things.   
-[[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] had been maintained that introduces the status of iO constructions.   
+[[iO: State-of-the-art](https://sites.google.com/view/iostate-of-the-art/home)] had been maintained, which introduces the status of iO constructions.   
 [[Pseudorandom Things](https://pseudorandomstring.wordpress.com/)] is my (Korean) blog for posting random research-like topics.   
 You can find me on [[Twitter](https://twitter.com/MinkiHhan)], [[ResearchGate](https://www.researchgate.net/profile/Minki-Hhan)], or [[LinkedIn](https://www.linkedin.com/in/minki-hhan-b8683a193/)].
