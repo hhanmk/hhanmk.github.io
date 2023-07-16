@@ -27,8 +27,6 @@ LATINCRYPT 2023
 ##### Subreviewer: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, ToSC, CT-RSA, ACNS, PQCrypt, WAHC, IEEE Access
 
 #### Experience
-- 2023.6: Visiting scholar
-##### Academia Sinica, Taiwan (Host: [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/))
 - 2018.10 - 2019.1: Research intern
 ##### NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
 
