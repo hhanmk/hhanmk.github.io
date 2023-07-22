@@ -82,6 +82,10 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Domestic Talks
+- Public key encryptions in Post-quantum Era
+##### Jul. 2023, Seoul National University, Department of Computer Science and Engineering, Seoul (Hosted by [Yongsoo Song](https://yongsoosong.github.io/))
+- Computer Science meets Physics
+##### Jul. 2023, Seoul National University, Department of Physics & Astronomy, Seoul (Hosted by [‪Hyunseok Jeong](https://physics.snu.ac.kr/hjeong/))
 - Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Jul. 2023, EWHA-KMS International Workshop on Cryptography, Seoul
 - Quantum Complexity for Discrete Logarithms and Related Problems
@@ -89,17 +93,17 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Review on the Quantum Dynamic Programming Algorithms
 ##### Jun. 2023, KIAS, Seoul
 - Quantum Computers and Algorithms, Computer Scientists’ Perspective
-##### May. 2023, Korea University, Seoul
+##### May. 2023, Korea University, Quantum Workforce Center, Seoul (Hosted by [Mahn-soo Choi](https://qclab.korea.ac.kr/QCLab/index.php/Choi,_Mahn-Soo))
 - From the Hardness of Detecting Superpositions to Cryptography, and a little bit more
-##### May. 2023, Academia Sinica, Taipei, Taiwan
+##### May. 2023, Academia Sinica, Institute of Information Science (IIS), Taipei, Taiwan (Hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/))
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Mar. 2023, National Security Research Institute, Daejeon
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Jan. 2023, SNU, QST Seminar, Online
+##### Jan. 2023, SNU, QST Seminar, Online (Hosted by [Kabgyun Jeong](https://sites.google.com/site/kabgyunspage/))
 - Compressed Quantum Random Oracles and Applications
-##### Jan. 2023, KAIST, Daejeon
+##### Jan. 2023, KAIST, School of Computing, Daejeon (Hosted by Jooyoung Lee)
 - Introduction to Quantum Computing and Quantum Cryptanalysis
-##### Dec. 2022, KAIST, Daejeon
+##### Dec. 2022, KAIST, School of Computing, Daejeon (Hosted by Jooyoung Lee)
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Nov. 2022, KIAS, Seoul
 - Quantum Computations vs. Post-quantum Cryptography (2022)
@@ -107,7 +111,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Cryptographic Models vs. Quantum Algorithms: Oracle models and QRAM
 ##### Nov. 2022, KIAS, Seoul
 - On locality-sensitive hashing and more
-##### Oct. 2022, Hanyang University, Seoul
+##### Oct. 2022, Hanyang University, Department of Mathematics, Seoul (Hosted by [Jae Hong Seo](https://sites.google.com/site/jhsbhs/))
 - Complexity theory meets mathematics
 ##### Aug. 2022, Workshop on Quantum Analysis, Gangneung
 - On influence of block-multilinear polynomials
