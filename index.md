@@ -2,9 +2,9 @@
 layout: default
 ---
 
-My name is Minki Hhan (한민기, 韓旻琪), a researcher in KIAS, Seoul.
+My name is Minki Hhan (한민기, 韓旻琪), a researcher at KIAS, Seoul.
 
-My primary topics are quantum algorithms and (post-)quantum cryptography, but I am also interested in more broader topics such as theoretical computer science or computational complexity.
+My primary topics are quantum algorithms and (post-)quantum cryptography, but I am also interested in broader topics such as theoretical computer science or computational complexity.
 
 * * *
 
@@ -77,7 +77,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - How to Meet Ternary LWE Keys on Babai’s Nearest Plane
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
 - Quantum Complexity for Discrete Logarithms and Related Problems
-##### Minki Hhan, Takashi Yamakawa, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065), [AQIS 2023](http://aqis-conf.org/2023/) (Long talk), 2023
+##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065), [AQIS 2023](http://aqis-conf.org/2023/) (Long talk), 2023
 
 * * *
 
@@ -87,7 +87,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Computer Science meets Physics
 ##### Jul. 2023, Seoul National University, Department of Physics & Astronomy, Seoul (Hosted by [‪Hyunseok Jeong](https://physics.snu.ac.kr/hjeong/))
 - Quantum Complexity for Discrete Logarithms and Related Problems
-##### Jul. 2023, EWHA-KMS International Workshop on Cryptography, Seoul
+##### Jul. 2023, [2023 EWHA-KMS International Workshop on Cryptography](https://sites.google.com/view/2023ewha-kmsiwc/), Seoul
 - Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Jul. 2023, Electronics and Telecommunications Research Institute, Daejeon
 - Review on the Quantum Dynamic Programming Algorithms
@@ -113,21 +113,21 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - On locality-sensitive hashing and more
 ##### Oct. 2022, Hanyang University, Department of Mathematics, Seoul (Hosted by [Jae Hong Seo](https://sites.google.com/site/jhsbhs/))
 - Complexity theory meets mathematics
-##### Aug. 2022, Workshop on Quantum Analysis, Gangneung
+##### Aug. 2022, [Workshop on Quantum Analysis 2022](http://events.kias.re.kr/h/WQA2022/), Gangneung
 - On influence of block-multilinear polynomials
 ##### Jul. 2022, SNU, Seoul
 - Cryptographic Algorithms for Quantum Computations
 ##### Jun. 2022, Thesis defense, SNU, Seoul
 - Quantum attacks on symmetric key crypto beyond Grover's algorithm
-##### Oct. 2021, SNU, QST Seminar, Online
+##### Oct. 2021, SNU, [QST Seminar](https://sites.google.com/site/kabgyunspage/k-jeongs-page/qst-seminar), Online
 - Claw-free trapdoor functions and its applications in classical-quantum communications
-##### Jul. 2020, KMS Spring Meeting, Online
+##### Jul. 2020, [2020 KMS Spring Meeting](https://www.kms.or.kr/meetings/spring2020/), Online
 - Introduction to security proofs in QROM
-##### Feb. 2020, KAIST, Daejeon
+##### Feb. 2020, KAIST, Daejeon (Hosted by Kwangjo Kim)
 - Quantum Random Oracle Model with Auxiliary Input
 ##### Jan. 2019, NTT secure platform laboratories, Tokyo, Japan
 - Cryptanalysis of Branching Program Obfuscators
-##### Oct. 2017, KMS Annual Meeting, Cheonan
+##### Oct. 2017, [2017 KMS Annual Meeting](https://www.kms.or.kr/meetings/fall2017/), Cheonan
 
 * * *
 
