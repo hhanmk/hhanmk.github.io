@@ -46,6 +46,8 @@ LATINCRYPT 2023
 - Cryptanalysis of Branching Program Obfuscators
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
+#### Visiting
+Kyoto University, Academia Sinica
 * * *
 
 ### Publications
@@ -84,6 +86,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Domestic Talks
+- Quantum Complexity for Discrete Logarithms and Related Problems
+##### Aug. 2023, Kyoto University, Yukawa Institute for Theoretical Physics, Kyoto
 - Public key encryptions in Post-quantum Era
 ##### Jul. 2023, Seoul National University, Department of Computer Science and Engineering, Seoul (Hosted by [Yongsoo Song](https://yongsoosong.github.io/))
 - Computer Science meets Physics
