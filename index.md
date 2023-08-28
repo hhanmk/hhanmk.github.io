@@ -24,6 +24,10 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 #### Program Committee
 LATINCRYPT 2023
+
+#### Organizing Committee
+AQIS 2023
+
 ##### Subreviewer: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, ToSC, CT-RSA, ACNS, PQCrypt, WAHC, IEEE Access
 
 #### Experience
