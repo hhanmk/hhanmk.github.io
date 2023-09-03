@@ -91,9 +91,13 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 * * *
 
-### Domestic Talks
+### Not-refereed Talks
+- Quantum Complexity for Discrete Logarithms and Beyond
+##### Sep. 2023, KIAS, Seoul
+- Shor's Algorithm: Optimal or Not
+##### Aug. 2023, [Qcrypt 2023](https://2023.qcrypt.net/), Rump Session, Most Concise Technical Talk Award
 - Quantum Complexity for Discrete Logarithms and Related Problems
-##### Aug. 2023, Kyoto University, Yukawa Institute for Theoretical Physics, Kyoto
+##### Aug. 2023, Kyoto University, Yukawa Institute for Theoretical Physics, Kyoto (Hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html))
 - Public key encryptions in Post-quantum Era
 ##### Jul. 2023, Seoul National University, Department of Computer Science and Engineering, Seoul (Hosted by [Yongsoo Song](https://yongsoosong.github.io/))
 - Computer Science meets Physics
