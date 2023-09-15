@@ -40,7 +40,7 @@ AQIS 2023
 
 #### International Conference Talks
 - Quantum Complexity for Discrete Logarithms and Related Problems
-##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (long talk)
+##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (*long talk*)
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/) <br> Apr. 2023, [Eurocrypt 2023](https://eurocrypt.iacr.org/2023/) <br> Aug. 2023 [AQIS 2023](http://aqis-conf.org/2023/)
 - Quantum Random Oracle Model with Auxiliary Input
@@ -59,7 +59,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 #### Refereed Conference Papers
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)<br> [Eurocrypt 2023](https://link.springer.com/chapter/10.1007/978-3-031-30545-0_22), [eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)<br> [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/), [QIP 2023](https://indico.cern.ch/event/1175020/), [Qcrypt 2023](https://2023.qcrypt.net/) (Invited talk), [AQIS 2023](http://aqis-conf.org/2023/)
+##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)<br> [Eurocrypt 2023](https://link.springer.com/chapter/10.1007/978-3-031-30545-0_22), [eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)<br> [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/), [QIP 2023](https://indico.cern.ch/event/1175020/), [Qcrypt 2023](https://2023.qcrypt.net/) (**Invited talk**), [AQIS 2023](http://aqis-conf.org/2023/)
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
 ##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/)<br> [TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint](https://eprint.iacr.org/2019/1085)
 - Quantum Random Oracle Model with Auxiliary Input
