@@ -88,6 +88,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [arxiv](https://arxiv.org/abs/2302.14369), 2023
 - Non-destructive Local Discrimination of Entangled Quantum States
 ##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](http://scirate.com/arxiv/2308.16032), 2023
+- Oracle Recording for Non-Uniform Random Oracles, and its Applications
+##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023
 
 * * *
 
@@ -95,7 +97,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Quantum Complexity for Discrete Logarithms and Beyond
 ##### Sep. 2023, KIAS, Seoul
 - Shor's Algorithm: Optimal or Not
-##### Aug. 2023, [Qcrypt 2023](https://2023.qcrypt.net/), Rump Session, Most Concise Technical Talk Award
+##### Aug. 2023, [Qcrypt 2023](https://2023.qcrypt.net/), Rump Session, *Most Concise Technical Talk Award*
 - Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Aug. 2023, Kyoto University, Yukawa Institute for Theoretical Physics, Kyoto (Hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html))
 - Public key encryptions in Post-quantum Era
@@ -105,7 +107,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Jul. 2023, [2023 EWHA-KMS International Workshop on Cryptography](https://sites.google.com/view/2023ewha-kmsiwc/), Seoul
 - Quantum Complexity for Discrete Logarithms and Related Problems
-##### Jul. 2023, Electronics and Telecommunications Research Institute, Daejeon
+##### Jul. 2023, Electronics and Telecommunications Research Institute, Daejeon (Hosted by Taewan Kim)
 - Review on the Quantum Dynamic Programming Algorithms
 ##### Jun. 2023, KIAS, Seoul
 - Quantum Computers and Algorithms, Computer Scientists’ Perspective
@@ -113,7 +115,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - From the Hardness of Detecting Superpositions to Cryptography, and a little bit more
 ##### May. 2023, Academia Sinica, Institute of Information Science (IIS), Taipei, Taiwan (Hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/))
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Mar. 2023, National Security Research Institute, Daejeon
+##### Mar. 2023, National Security Research Institute, Daejeon (Hosted by Minkyu Kim
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Jan. 2023, SNU, QST Seminar, Online (Hosted by [Kabgyun Jeong](https://sites.google.com/site/kabgyunspage/))
 - Compressed Quantum Random Oracles and Applications
