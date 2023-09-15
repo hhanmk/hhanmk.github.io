@@ -40,7 +40,7 @@ AQIS 2023
 
 #### International Conference Talks
 - Quantum Complexity for Discrete Logarithms and Related Problems
-##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (*long talk*)
+##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (**long talk**)
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/) <br> Apr. 2023, [Eurocrypt 2023](https://eurocrypt.iacr.org/2023/) <br> Aug. 2023 [AQIS 2023](http://aqis-conf.org/2023/)
 - Quantum Random Oracle Model with Auxiliary Input
