@@ -87,9 +87,13 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs
 ##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [arxiv](https://arxiv.org/abs/2302.14369), 2023
 - Non-destructive Local Discrimination of Entangled Quantum States
-##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](http://scirate.com/arxiv/2308.16032), 2023
+##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](http://scirate.com/arxiv/2308.16032), [Quantum Resources 2023
+](https://2023.quantumresources.science/), 2023
 - Oracle Recording for Non-Uniform Random Oracles, and its Applications
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023
+- Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs
+##### [Wonseok Choi](https://sites.google.com/view/choiwonseok/home), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/)
+
 
 * * *
 
