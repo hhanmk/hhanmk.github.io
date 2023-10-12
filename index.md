@@ -51,7 +51,7 @@ AQIS 2023
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
 #### Visiting
-Kyoto University, Academia Sinica
+Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html)), Academia Sinica (hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/)), Tokyo University (hosted by [Ryuji Takagi](https://ryujitakagi.wordpress.com/))
 * * *
 
 ### Publications
