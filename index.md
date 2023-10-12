@@ -70,22 +70,22 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br>[Crypto 2018](https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7), [eprint](https://eprint.iacr.org/2018/408)
         
 #### Journal Articles
+- Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs
+##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [Physics Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043037), 2023 <br> [arxiv](https://arxiv.org/abs/2302.14369), APS March Meeting 2023
 - Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem,
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee <br>[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), [NutMic 2019](http://nutmic2019.imj-prg.fr/), [eprint](https://eprint.iacr.org/2019/195), 2020
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee <br>[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), 2020 <br> [NutMic 2019](http://nutmic2019.imj-prg.fr/), [eprint](https://eprint.iacr.org/2019/195)
 - A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, [Seungwan Hong](https://swanhong.github.io/), Yongha Son <br> [IEEE Access](https://ieeexplore.ieee.org/document/8747481), [eprint](https://eprint.iacr.org/2019/1114), 2019
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, [Seungwan Hong](https://swanhong.github.io/), Yongha Son <br> [IEEE Access](https://ieeexplore.ieee.org/document/8747481), 2019 <br> [eprint](https://eprint.iacr.org/2019/1114)
 - Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
-##### [Kyoohyung Han](https://kyoohyunghan.github.io/), Minki Hhan, [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/) <br> [IEEE Access](https://ieeexplore.ieee.org/document/8701685), [eprint](https://eprint.iacr.org/2018/1073), 2019
+##### [Kyoohyung Han](https://kyoohyunghan.github.io/), Minki Hhan, [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/) <br> [IEEE Access](https://ieeexplore.ieee.org/document/8701685), 2019 <br> [eprint](https://eprint.iacr.org/2018/1073)
 - Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://ieeexplore.ieee.org/document/8401690), [eprint](https://eprint.iacr.org/2018/397), 2018
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://ieeexplore.ieee.org/document/8401690), 2018 <br> [eprint](https://eprint.iacr.org/2018/397)
 
 #### Preprints
 - How to Meet Ternary LWE Keys on Babai’s Nearest Plane
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
 - Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065), [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), 2023
-- Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs
-##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [arxiv](https://arxiv.org/abs/2302.14369), APS March Meeting 2023, 2023
 - Non-destructive Local Discrimination of Entangled Quantum States
 ##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](http://scirate.com/arxiv/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/), 2023
 - Oracle Recording for Non-Uniform Random Oracles, and its Applications
