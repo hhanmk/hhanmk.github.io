@@ -71,7 +71,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
         
 #### Journal Articles
 - Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs*
-##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [Physics Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043037), 2023 <br> [arxiv](https://arxiv.org/abs/2302.14369), APS March Meeting 2023
+##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, JuYoung Park, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [Physics Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043037), 2023 <br> [arxiv](https://arxiv.org/abs/2302.14369), APS March Meeting 2023
 - Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee <br>[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), 2020 <br> [NutMic 2019](http://nutmic2019.imj-prg.fr/), [eprint](https://eprint.iacr.org/2019/195)
 - A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
