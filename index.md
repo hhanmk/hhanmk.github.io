@@ -51,13 +51,15 @@ AQIS 2023
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
 #### Visiting
-Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html)), Academia Sinica (hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/)), Tokyo University (hosted by [Ryuji Takagi](https://ryujitakagi.wordpress.com/))
+##### Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html)) <br> Academia Sinica (hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/)) <br> Tokyo University (hosted by [Ryuji Takagi](https://ryujitakagi.wordpress.com/))
 * * *
 
 ### Publications
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names is in alphabetical order unless marked with *.
 
 #### Refereed Conference Papers
+- Quantum Complexity for Discrete Logarithms and Related Problems
+##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065) <br> [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), 2023
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)<br> [Eurocrypt 2023](https://link.springer.com/chapter/10.1007/978-3-031-30545-0_22), [eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)<br> [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/), [QIP 2023](https://indico.cern.ch/event/1175020/), [Qcrypt 2023](https://2023.qcrypt.net/) (**Invited talk**), [AQIS 2023](http://aqis-conf.org/2023/)
 - Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
@@ -84,8 +86,6 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 #### Preprints
 - How to Meet Ternary LWE Keys on Babai’s Nearest Plane
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
-- Quantum Complexity for Discrete Logarithms and Related Problems
-##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065), [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), 2023
 - Non-destructive Local Discrimination of Entangled Quantum States*
 ##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](http://scirate.com/arxiv/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/), 2023
 - Oracle Recording for Non-Uniform Random Oracles, and its Applications
