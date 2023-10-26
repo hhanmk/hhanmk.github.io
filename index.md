@@ -97,6 +97,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Not-refereed Talks
+- From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+##### Oct. 2023, The University of Tokyo, Department of Basic Science, Tokyo (Hosted by [Ryuji Takagi](https://ryujitakagi.wordpress.com/))
 - Quantum Complexity for Discrete Logarithms and Beyond
 ##### Sep. 2023, KIAS, Seoul
 - Shor's Algorithm: Optimal or Not
@@ -118,7 +120,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - From the Hardness of Detecting Superpositions to Cryptography, and a little bit more
 ##### May. 2023, Academia Sinica, Institute of Information Science (IIS), Taipei, Taiwan (Hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/))
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
-##### Mar. 2023, National Security Research Institute, Daejeon (Hosted by Minkyu Kim
+##### Mar. 2023, National Security Research Institute, Daejeon (Hosted by Minkyu Kim)
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Jan. 2023, SNU, QST Seminar, Online (Hosted by [Kabgyun Jeong](https://sites.google.com/site/kabgyunspage/))
 - Compressed Quantum Random Oracles and Applications
