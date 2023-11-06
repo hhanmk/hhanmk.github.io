@@ -33,9 +33,9 @@ This page collects random research-related things that I recommend.
 - A CS guide to the quantum singular value transformation
 ##### Ewin Tang, Kevin Tian [[arxiv](https://arxiv.org/abs/2302.14324)]
 - Introduction to Quantum Information Science
-#### Scott Aaronson [[pdf](https://www.scottaaronson.com/qclec.pdf)]
+##### Scott Aaronson [[pdf](https://www.scottaaronson.com/qclec.pdf)]
 - Introduction to Quantum Information Science II
-#### Scott Aaronson [[pdf](https://www.scottaaronson.com/qisii.pdf)]
+##### Scott Aaronson [[pdf](https://www.scottaaronson.com/qisii.pdf)]
 
 * * *
 
