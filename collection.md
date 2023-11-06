@@ -30,6 +30,12 @@ This page collects random research-related things that I recommend.
 ##### Ronald de Wolf [[arxiv](https://arxiv.org/abs/1907.09415)]
 - Analysis of Boolean Functions
 ##### Ryan O'donnell [[arxiv](https://arxiv.org/abs/2105.10386)]
+- A CS guide to the quantum singular value transformation
+##### Ewin Tang, Kevin Tian [[arxiv](https://arxiv.org/abs/2302.14324)]
+- Introduction to Quantum Information Science
+#### Scott Aaronson [[pdf](https://www.scottaaronson.com/qclec.pdf)]
+- Introduction to Quantum Information Science II
+#### Scott Aaronson [[pdf](Introduction to Quantum Information Science II)]
 
 * * *
 
