@@ -91,7 +91,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Oracle Recording for Non-Uniform Random Oracles, and its Applications
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023
 - Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs
-##### [Wonseok Choi](https://sites.google.com/view/choiwonseok/home), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/)
+##### [Wonseok Choi](https://sites.google.com/view/choiwonseok/home), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/) <br> [eprint](https://eprint.iacr.org/2023/1704), 2023
 
 
 * * *
