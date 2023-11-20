@@ -97,6 +97,10 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Not-refereed Talks
+- Classical and Quantum Algorithms for Lattice Problems
+##### Nov. 2023, Seoul National University, Department of Computer Science and Engineering, Seoul (Hosted by [Taehyun Kim](https://sites.google.com/view/quantumcomputingatsnu/people?authuser=0))
+- Quantum Learning and Cryptographic Assumptions
+##### Nov. 2023, KIAS, Seoul
 - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Oct. 2023, The University of Tokyo, Department of Basic Science, Tokyo (Hosted by [Ryuji Takagi](https://ryujitakagi.wordpress.com/))
 - Quantum Complexity for Discrete Logarithms and Beyond
