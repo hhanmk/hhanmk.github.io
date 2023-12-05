@@ -97,7 +97,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Not-refereed Talks
-- Few Non-Clifford gates and symplectic Fourier transform
+- Few Non-Clifford Gates and Symplectic Fourier Analysis
 ##### Dec. 2023, KIAS, Seoul
 - Classical and Quantum Algorithms for Lattice Problems
 ##### Nov. 2023, Seoul National University, Department of Computer Science and Engineering, Seoul (Hosted by [Taehyun Kim](https://sites.google.com/view/quantumcomputingatsnu/people?authuser=0))
