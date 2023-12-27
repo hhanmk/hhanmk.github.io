@@ -92,11 +92,14 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023
 - Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs
 ##### [Wonseok Choi](https://wonseok-crypto.github.io/), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/) <br> [eprint](https://eprint.iacr.org/2023/1704), 2023
-
+- A Note on Output Length of One-Way State Generators
+##### [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
 
 * * *
 
 ### Not-refereed Talks
+- From the Hardness of Detecting Superpositions to Cryptography
+##### Dec. 2023, [NII Shonan Meeting No.198](https://shonan.nii.ac.jp/seminars/198/), Kanagawa, Japan
 - Few Non-Clifford Gates and Symplectic Fourier Analysis
 ##### Dec. 2023, KIAS, Seoul
 - Classical and Quantum Algorithms for Lattice Problems
