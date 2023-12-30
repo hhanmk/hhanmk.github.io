@@ -91,7 +91,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Oracle Recording for Non-Uniform Random Oracles, and its Applications
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023
 - Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs
-##### [Wonseok Choi](https://wonseok-crypto.github.io/), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/) <br> [eprint](https://eprint.iacr.org/2023/1704), 2023
+##### [Wonseok Choi](https://wonseok-crypto.github.io/), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/) <br> [eprint](https://eprint.iacr.org/2023/1704), [ASK 2023](https://askworkshop.github.io/ask2023/), 2023
 - A Note on Output Length of One-Way State Generators
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
 
