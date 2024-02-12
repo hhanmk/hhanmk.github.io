@@ -23,7 +23,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 ### Research Activities
 
 #### Program Committee
-QCrypt 2024
+QCrypt 2024\\
 LATINCRYPT 2023
 
 #### Organizing Committee
