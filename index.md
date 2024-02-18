@@ -29,7 +29,11 @@ LATINCRYPT 2023
 #### Organizing Committee
 AQIS 2023
 
-##### Subreviewer: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, ToSC, CT-RSA, ACNS, PQCrypt, WAHC, IEEE Access
+#### Subreviewer: 
+- Conferences
+##### Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, ToSC, CT-RSA, ACNS, PQCrypt, WAHC
+- Journals
+##### npj quantum information, IEEE Access
 
 #### Experience
 - 2018.10 - 2019.1: Research intern
