@@ -31,9 +31,9 @@ AQIS 2023
 
 #### Subreviewer: 
 - Conferences
-##### Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, ToSC, CT-RSA, ACNS, PQCrypt, WAHC
+##### Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
 - Journals
-##### npj quantum information, IEEE Access
+##### npj quantum information, ToSC, IEEE Access
 
 #### Experience
 - 2018.10 - 2019.1: Research intern
