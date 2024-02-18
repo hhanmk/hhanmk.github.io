@@ -85,16 +85,18 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://ieeexplore.ieee.org/document/8401690), 2018 <br> [eprint](https://eprint.iacr.org/2018/397)
 
 #### Preprints
-- How to Meet Ternary LWE Keys on Babai’s Nearest Plane
+- Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
 - Non-destructive Local Discrimination of Entangled Quantum States*
 ##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](http://scirate.com/arxiv/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/), 2023
 - Oracle Recording for Non-Uniform Random Oracles, and its Applications
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023
-- Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs
+- On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications (tentative title)
 ##### [Wonseok Choi](https://wonseok-crypto.github.io/), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/) <br> [eprint](https://eprint.iacr.org/2023/1704), [ASK 2023](https://askworkshop.github.io/ask2023/), 2023
 - A Note on Output Length of One-Way State Generators
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
+- A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
+##### Minki Hhan, 2024
 
 * * *
 
