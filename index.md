@@ -100,7 +100,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - A Note on Output Length of One-Way State Generators
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
 - A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
-##### Minki Hhan, 2024
+##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2024/268), 2024
 
 * * *
 
