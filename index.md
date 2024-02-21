@@ -60,7 +60,7 @@ AQIS 2023
 * * *
 
 ### Publications
-See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The order of author names is in alphabetical order unless marked with *.
+See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The author names are in alphabetical order unless marked with *.
 
 #### Refereed Conference Papers
 - Quantum Complexity for Discrete Logarithms and Related Problems
@@ -92,7 +92,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
 - Non-destructive Local Discrimination of Entangled Quantum States*
-##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](http://scirate.com/arxiv/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/), 2023
+##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](https://arxiv.org/abs/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/), 2023
 - Oracle Recording for Non-Uniform Random Oracles, and its Applications
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023
 - On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications (tentative title)
@@ -100,7 +100,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 - A Note on Output Length of One-Way State Generators
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
 - A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
-##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2024/268), 2024
+##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269), 2024
 
 * * *
 
