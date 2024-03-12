@@ -28,17 +28,6 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 ### Research Activities
 
-**Program Committee**
-##### QCrypt 2024, LATINCRYPT 2023
-
-**Organizing Committee**
-##### AQIS 2023
-
-**Subreviewer**
-##### **Conferences**: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
-##### **Journals**: npj quantum information, ToSC, IEEE Access, CIC
-
-
 **Invited Talk**
   1. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Aug. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
@@ -55,8 +44,18 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
   5. Cryptanalysis of Branching Program Obfuscators
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
-#### Visiting
+- Program Committee
+##### QCrypt 2024, LATINCRYPT 2023
+
+- Organizing Committee
+##### AQIS 2023
+
+- Subreviewer
+##### **Conferences**: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC <br> **Journals**: npj quantum information, ToSC, IEEE Access, CIC
+
+- Visiting
 ##### Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html)) <br> Academia Sinica (hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/)) <br> Tokyo University (hosted by [Ryuji Takagi](https://ryujitakagi.wordpress.com/))
+
 * * *
 
 ### Publications
