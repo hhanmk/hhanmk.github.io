@@ -37,11 +37,11 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 - Experience
 ##### 2018.10 - 2019.1: Research intern at NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
 
-- Invited Talk
+- **Invited Talk**
   1. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Aug. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
 
-- International Conference Talks
+- **International Conference Talks**
   1. Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (**long talk**)
   2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
@@ -60,7 +60,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 ### Publications
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The author names are in alphabetical order unless marked with *.
 
-- Refereed Conference Papers
+**Refereed Conference Papers**
   1. Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065) <br> [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), 2023
   2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
@@ -74,7 +74,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
   6. Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br>[Crypto 2018](https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7), [eprint](https://eprint.iacr.org/2018/408)
         
-- Journal Articles
+**Journal Articles**
   7. Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs*
 ##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, JuYoung Park, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [Physics Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043037), 2023 <br> [arxiv](https://arxiv.org/abs/2302.14369), APS March Meeting 2023
   8. Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem
@@ -86,7 +86,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
   11. Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://ieeexplore.ieee.org/document/8401690), 2018 <br> [eprint](https://eprint.iacr.org/2018/397)
 
-- Preprints
+**Preprints**
   12. Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
   13. Non-destructive Local Discrimination of Entangled Quantum States*
