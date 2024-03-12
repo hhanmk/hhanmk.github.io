@@ -20,28 +20,30 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 - 2011.3 - 2016.2: BSc in Mathematics, 
 ##### Seoul National University (SNU), Republic of Korea
 
+#### Experience
+- 2018.10 - 2019.1: Research intern,
+##### NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
+
 * * *
 
 ### Research Activities
 
-- Program Committee
+**Program Committee**
 ##### QCrypt 2024, LATINCRYPT 2023
 
-- Organizing Committee
+**Organizing Committee**
 ##### AQIS 2023
 
-- Subreviewer
+**Subreviewer**
 ##### **Conferences**: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
 ##### **Journals**: npj quantum information, ToSC, IEEE Access, CIC
 
-- Experience
-##### 2018.10 - 2019.1: Research intern at NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
 
-- **Invited Talk**
+**Invited Talk**
   1. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Aug. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
 
-- **International Conference Talks**
+**International Conference Talks**
   1. Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (**long talk**)
   2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
