@@ -25,20 +25,17 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 ### Research Activities
 
 - Program Committee
-##### QCrypt 2024 <br> LATINCRYPT 2023
+##### QCrypt 2024, LATINCRYPT 2023
 
 - Organizing Committee
 ##### AQIS 2023
 
 - Subreviewer
-  ##### Conferences
-Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
-  ##### Journals
-npj quantum information, ToSC, IEEE Access
+##### **Conferences**: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
+##### **Journals**: npj quantum information, ToSC, IEEE Access, CIC
 
 - Experience
-  2018.10 - 2019.1: Research intern
-##### NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
+##### 2018.10 - 2019.1: Research intern at NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
 
 - Invited Talk
   1. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
@@ -63,44 +60,44 @@ npj quantum information, ToSC, IEEE Access
 ### Publications
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The author names are in alphabetical order unless marked with *.
 
-#### Refereed Conference Papers
-- Quantum Complexity for Discrete Logarithms and Related Problems
+- Refereed Conference Papers
+  1. Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065) <br> [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), 2023
-- From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+  2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)<br> [Eurocrypt 2023](https://link.springer.com/chapter/10.1007/978-3-031-30545-0_22), [eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)<br> [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/), [QIP 2023](https://indico.cern.ch/event/1175020/), [Qcrypt 2023](https://2023.qcrypt.net/) (**Invited talk**), [AQIS 2023](http://aqis-conf.org/2023/)
-- Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
+  3. Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
 ##### [Yilei Chen](http://www.chenyilei.net/), Minki Hhan, [Hoeteck Wee](https://www.di.ens.fr/~wee/), [Vinod Vaikuntanathan](https://people.csail.mit.edu/vinodv/)<br> [TCC 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-36030-6_3), [eprint](https://eprint.iacr.org/2019/1085)
-- Quantum Random Oracle Model with Auxiliary Input
+  4. Quantum Random Oracle Model with Auxiliary Input
 ##### Minki Hhan, [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br>[Asiacrypt 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-34578-5_21), [eprint](https://eprint.iacr.org/2019/1093)
-- Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map
+  5. Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee <br>[Crypto 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9), [eprint](https://eprint.iacr.org/2018/1081)
-- Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
+  6. Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br>[Crypto 2018](https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7), [eprint](https://eprint.iacr.org/2018/408)
         
-#### Journal Articles
-- Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs*
+- Journal Articles
+  7. Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs*
 ##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, JuYoung Park, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [Physics Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043037), 2023 <br> [arxiv](https://arxiv.org/abs/2302.14369), APS March Meeting 2023
-- Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem
+  8. Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee <br>[Journal of Mathematical Cryptology](https://www.degruyter.com/document/doi/10.1515/jmc-2019-0031/html), 2020 <br> [NutMic 2019](http://nutmic2019.imj-prg.fr/), [eprint](https://eprint.iacr.org/2019/195)
-- A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
+  9. A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, [Seungwan Hong](https://swanhong.github.io/), Yongha Son <br> [IEEE Access](https://ieeexplore.ieee.org/document/8747481), 2019 <br> [eprint](https://eprint.iacr.org/2019/1114)
-- Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
+  10. Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
 ##### [Kyoohyung Han](https://kyoohyunghan.github.io/), Minki Hhan, [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/) <br> [IEEE Access](https://ieeexplore.ieee.org/document/8701685), 2019 <br> [eprint](https://eprint.iacr.org/2018/1073)
-- Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
+  11. Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://ieeexplore.ieee.org/document/8401690), 2018 <br> [eprint](https://eprint.iacr.org/2018/397)
 
-#### Preprints
-- Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
+- Preprints
+  12. Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
-- Non-destructive Local Discrimination of Entangled Quantum States*
+  13. Non-destructive Local Discrimination of Entangled Quantum States*
 ##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](https://arxiv.org/abs/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/), 2023
-- Oracle Recording for Non-Uniform Random Oracles, and its Applications
-##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023
-- On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications (tentative title)
+  14. Oracle Recording for Non-Uniform Random Oracles, and its Applications
+##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023 
+  15. On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications (tentative title)
 ##### [Wonseok Choi](https://wonseok-crypto.github.io/), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/) <br> [eprint](https://eprint.iacr.org/2023/1704), [ASK 2023](https://askworkshop.github.io/ask2023/), 2023
-- A Note on Output Length of One-Way State Generators
+  16. A Note on Output Length of One-Way State Generators
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
-- A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
+  17. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
 ##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269), 2024
 
 * * *
