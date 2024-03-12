@@ -44,6 +44,8 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
   5. Cryptanalysis of Branching Program Obfuscators
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
+#### Further Activities
+
 - Program Committee
 ##### QCrypt 2024, LATINCRYPT 2023
 
