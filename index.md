@@ -31,17 +31,17 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 ##### AQIS 2023
 
 - Subreviewer
-  - Conferences
-###### Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
-  - Journals
-###### npj quantum information, ToSC, IEEE Access
+  - ##### Conferences
+    Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
+  - ##### Journals
+    npj quantum information, ToSC, IEEE Access
 
 - Experience
   - 2018.10 - 2019.1: Research intern
 ###### NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
 
 - Invited Talk
-  - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+  1. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Aug. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
 
 - International Conference Talks
