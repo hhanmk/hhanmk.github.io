@@ -9,7 +9,9 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 * * *
 
 ### Positions
-- 2022.9 - current: QUC Research Fellow,
+- 2024.3 - current: QUC Fellow,
+##### Korea Institute for Advanced Study (KIAS), Republic of Korea
+- 2022.9 - 2024.3: QUC Research Fellow,
 ##### Korea Institute for Advanced Study (KIAS), Republic of Korea
 
 #### Education
@@ -22,37 +24,36 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 ### Research Activities
 
-#### Program Committee
-QCrypt 2024 <br>
-LATINCRYPT 2023
+- Program Committee
+##### QCrypt 2024 <br> LATINCRYPT 2023
 
-#### Organizing Committee
-AQIS 2023
+- Organizing Committee
+##### AQIS 2023
 
-#### Subreviewer: 
-- Conferences
-##### Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
-- Journals
-##### npj quantum information, ToSC, IEEE Access
+- Subreviewer
+  - Conferences
+###### Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
+  - Journals
+###### npj quantum information, ToSC, IEEE Access
 
-#### Experience
-- 2018.10 - 2019.1: Research intern
-##### NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
+- Experience
+  - 2018.10 - 2019.1: Research intern
+###### NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
 
-#### Invited Talk
-- From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+- Invited Talk
+  - From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Aug. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
 
-#### International Conference Talks
-- Quantum Complexity for Discrete Logarithms and Related Problems
+- International Conference Talks
+  1. Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (**long talk**)
-- From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
+  2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/) <br> Apr. 2023, [Eurocrypt 2023](https://eurocrypt.iacr.org/2023/) <br> Aug. 2023 [AQIS 2023](http://aqis-conf.org/2023/)
-- Quantum Random Oracle Model with Auxiliary Input
+  3. Quantum Random Oracle Model with Auxiliary Input
 ##### Dec. 2019, [Asiacrypt 2019](https://asiacrypt.iacr.org/2019/)
-- Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
+  4. Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
 ##### Dec. 2019, [TCC 2019](https://tcc.iacr.org/2019/)
-- Cryptanalysis of Branching Program Obfuscators
+  5. Cryptanalysis of Branching Program Obfuscators
 ##### Aug. 2018, [Crypto 2018](https://crypto.iacr.org/2018/), joint talk with [Allice Pallet--Mary](https://apelletm.github.io/)
 
 #### Visiting
