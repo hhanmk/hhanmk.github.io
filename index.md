@@ -32,9 +32,9 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 - Subreviewer
   ##### Conferences
-      Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
+Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC
   ##### Journals
-      npj quantum information, ToSC, IEEE Access
+npj quantum information, ToSC, IEEE Access
 
 - Experience
   2018.10 - 2019.1: Research intern
