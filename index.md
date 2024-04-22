@@ -64,8 +64,10 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
+  17. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
+##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269), 2024 <br> [TQC2024](https://tqc-conference.org/) (talk, merged with the below paper)
   1. Quantum Complexity for Discrete Logarithms and Related Problems
-##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065) <br> [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), 2023
+##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065) <br> [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), [TQC2024](https://tqc-conference.org/) (talk, merged with the above paper)
   2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)<br> [Eurocrypt 2023](https://link.springer.com/chapter/10.1007/978-3-031-30545-0_22), [eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)<br> [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/), [QIP 2023](https://indico.cern.ch/event/1175020/), [Qcrypt 2023](https://2023.qcrypt.net/) (**Invited talk**), [AQIS 2023](http://aqis-conf.org/2023/)
   3. Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
@@ -98,14 +100,20 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023 
   15. On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications (tentative title)
 ##### [Wonseok Choi](https://wonseok-crypto.github.io/), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/) <br> [eprint](https://eprint.iacr.org/2023/1704), [ASK 2023](https://askworkshop.github.io/ask2023/), 2023
-  16. A Note on Output Length of One-Way State Generators
+  16. A Note on Output Length of One-Way State Generators and EFIs
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
-  17. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
-##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269), 2024
+
 
 * * *
 
 ### Not-refereed Talks
+##### Apr. 2024, [2024 KMS Spring Meeting](https://www.kms.or.kr/conference/2024_spring/), Daejeon, Korea
+- From quantum physics to cryptography and back
+##### Mar. 2024, [2024 KIAS Computational Sciences Workshop](http://events.kias.re.kr/h/CS2024/?pageNo=5391), Byeonsan, Korea
+- Quantum Complexity for Discrete Logarithms and Integer Factorization
+##### Mar. 2024, The University of Texas at Austin, Online (Hosted by [Scott Aaronson](https://www.scottaaronson.com/))
+- Quantum Complexity for Discrete Logarithms and Integer Factorization
+##### Dec. 2023, [NII Shonan Meeting No.198](https://shonan.nii.ac.jp/seminars/198/), Kanagawa, Japan
 - From the Hardness of Detecting Superpositions to Cryptography
 ##### Dec. 2023, [NII Shonan Meeting No.198](https://shonan.nii.ac.jp/seminars/198/), Kanagawa, Japan
 - Few Non-Clifford Gates and Symplectic Fourier Analysis
