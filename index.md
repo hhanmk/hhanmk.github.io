@@ -67,7 +67,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
   17. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
 ##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269), 2024 <br> [TQC 2024](https://tqc-conference.org/) (talk, merged with the below paper)
   1. Quantum Complexity for Discrete Logarithms and Related Problems
-##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065) <br> [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), [TQC 2024](https://tqc-conference.org/) (talk, merged with the above paper)
+##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> CRYPTO 2024, [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065) <br> [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), [TQC 2024](https://tqc-conference.org/) (talk, merged with the above paper)
   2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa)<br> [Eurocrypt 2023](https://link.springer.com/chapter/10.1007/978-3-031-30545-0_22), [eprint](https://eprint.iacr.org/2022/1375), [arxiv](https://arxiv.org/abs/2210.05978)<br> [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/), [QIP 2023](https://indico.cern.ch/event/1175020/), [Qcrypt 2023](https://2023.qcrypt.net/) (**Invited talk**), [AQIS 2023](http://aqis-conf.org/2023/)
   3. Matrix PRFs: Constructions, Attacks, and Applications to Obfuscation
@@ -75,9 +75,9 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
   4. Quantum Random Oracle Model with Auxiliary Input
 ##### Minki Hhan, [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br>[Asiacrypt 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-34578-5_21), [eprint](https://eprint.iacr.org/2019/1093)
   5. Statistical Zeroizing Attack: Cryptanalysis of Candidates of BP Obfuscation over GGH15 Multilinear Map
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee <br>[Crypto 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9), [eprint](https://eprint.iacr.org/2018/1081)
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Wonhee Cho, Minki Hhan, Jiseung Kim, Changmin Lee <br>[CRYPTO 2019](https://link.springer.com/chapter/10.1007%2F978-3-030-26954-8_9), [eprint](https://eprint.iacr.org/2018/1081)
   6. Cryptanalyses of Branching Program Obfuscations over GGH13 Multilinear Map from the NTRU Problem
-##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br>[Crypto 2018](https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7), [eprint](https://eprint.iacr.org/2018/408)
+##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br>[CRYPTO 2018](https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7), [eprint](https://eprint.iacr.org/2018/408)
         
 **Journal Articles**
   7. Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs*
