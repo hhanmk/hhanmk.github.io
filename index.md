@@ -56,7 +56,10 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 ##### **Conferences**: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC <br> **Journals**: npj quantum information, ToSC, IEEE Access, CIC
 
 - Visiting
-##### Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html)) <br> Academia Sinica (hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/)) <br> Tokyo University (hosted by [Ryuji Takagi](https://ryujitakagi.wordpress.com/))
+##### Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html)) <br> Academia Sinica (hosted by [Kai-Min Chung](https://homepage.iis.sinica.edu.tw/~kmchung/)) <br> Tokyo University (hosted by [Ryuji Takagi](https://ryujitakagi.wordpress.com/)) <br> Université Toulouse (hosted by [Ion Nechita](https://ion.nechita.net/about/)
+
+- Hosting
+##### [John Bostanci](https://www.johnbostanci.com/) (Colombia University) <br> [Nick Spooner](https://spooner.cc/) (Warwick University) <br> Kuo-Chin Chen (Foxconn Research) <br> Ryu Hayakawa (Kyoto University)
 
 * * *
 
