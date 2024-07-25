@@ -110,6 +110,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Not-refereed Talks
+- How secure is lattice-based cryptography against quantum attacks?
+##### Jul. 2024, NSHC, Seoul, Korea
 - From quantum physics to cryptography and back
 ##### Apr. 2024, [2024 KMS Spring Meeting](https://www.kms.or.kr/conference/2024_spring/), Daejeon, Korea
 - Quantum Complexity for Discrete Logarithms and Integer Factorization
