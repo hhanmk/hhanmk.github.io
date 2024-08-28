@@ -110,6 +110,10 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Not-refereed Talks
+- Why is lattice-based cryptography secure against quantum attacks?
+##### Aug. 2024, DGIST, Daegu, Korea (Hosted by [Young-sik Kim](https://sites.google.com/view/pacl/))
+- Cryptography in Quantum World
+##### Jul. 2024, Sungshin Women's University, Seoul, Korea (Hosted by [Joohee Lee](https://sungshincrypto.github.io/))
 - How secure is lattice-based cryptography against quantum attacks?
 ##### Jul. 2024, NSHC, Seoul, Korea
 - From quantum physics to cryptography and back
