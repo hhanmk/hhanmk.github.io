@@ -10,7 +10,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 ### Positions
 - 2024.10 - now: Postdoctoral Fellow,
-##### The University of Texas at Austin, USA
+##### The University of Texas at Austin, USA (Host: [David Soloveichik](https://www.solo-group.link/members/david-soloveichik) and [Scott Aaronson](https://www.scottaaronson.com/))
 - 2024.3 - 2024.10: QUC Fellow (QUC Assistant Professor),
 ##### Korea Institute for Advanced Study (KIAS), Republic of Korea
 - 2022.9 - 2024.3: QUC Research Fellow,
