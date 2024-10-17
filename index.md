@@ -2,7 +2,7 @@
 layout: default
 ---
 
-My name is Minki Hhan (한민기, 韓旻琪), a researcher at KIAS, Seoul.
+My name is Minki Hhan (한민기, 韓旻琪).
 
 My primary topics are quantum algorithms and (post-)quantum cryptography, but I am also interested in broader topics such as theoretical computer science or computational complexity.
 
