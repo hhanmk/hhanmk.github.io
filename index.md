@@ -9,7 +9,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 * * *
 
 ### Positions
-- 2024.10 - now: Post Doctoral Fellow,
+- 2024.10 - now: Postdoctoral Fellow,
 ##### The University of Texas at Austin, USA
 - 2024.3 - 2024.10: QUC Fellow (QUC Assistant Professor),
 ##### Korea Institute for Advanced Study (KIAS), Republic of Korea
@@ -112,8 +112,10 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Not-refereed Talks
-- Why is lattice-based cryptography secure against quantum attacks?
-##### Aug. 2024, DGIST, Daegu, Korea (Hosted by [Young-sik Kim](https://sites.google.com/view/pacl/))
+- Does quantum lattice sieving require quantum RAM?
+##### Sep. 2024, Nagoya University, Nagoya, Japan (Hosted by [François Le Gall](http://www.francoislegall.com/) and [Akinori Kawachi](https://sites.google.com/site/akinorikawachi/))
+- Quantum Complexity for Discrete Logarithms and Integer Factorization
+##### Sep. 2024, [IMI Workshop](https://joint.imi.kyushu-u.ac.jp/post-15311/), Fukuoka, Japan
 - Cryptography in Quantum World
 ##### Jul. 2024, Sungshin Women's University, Seoul, Korea (Hosted by [Joohee Lee](https://sungshincrypto.github.io/))
 - How secure is lattice-based cryptography against quantum attacks?
