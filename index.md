@@ -9,7 +9,9 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 * * *
 
 ### Positions
-- 2024.3 - current: QUC Fellow (QUC Assistant Professor),
+- 2024.10 - now: Post Doctoral Fellow,
+##### The University of Texas at Austin, USA
+- 2024.3 - 2024. 10: QUC Fellow (QUC Assistant Professor),
 ##### Korea Institute for Advanced Study (KIAS), Republic of Korea
 - 2022.9 - 2024.3: QUC Research Fellow,
 ##### Korea Institute for Advanced Study (KIAS), Republic of Korea
