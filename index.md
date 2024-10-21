@@ -107,6 +107,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### [Wonseok Choi](https://wonseok-crypto.github.io/), Minki Hhan, Yu Wei, [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/) <br> [eprint](https://eprint.iacr.org/2023/1704), [ASK 2023](https://askworkshop.github.io/ask2023/), 2023
   16. A Note on Output Length of One-Way State Generators and EFIs
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
+  17. Does quantum lattice sieving require quantum RAM?
+##### Beomgeun Cho, Minki Hhan, [Taehyun Kim](https://quiqcl.snu.ac.kr/), Jeonghoon Lee, [Yixin Shen](https://www.irif.fr/~yixin.shen/index.html) <br> [eprint](https://eprint.iacr.org/2024/1700), 2024
 
 
 * * *
