@@ -108,7 +108,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
   16. A Note on Output Length of One-Way State Generators and EFIs
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
   17. Does quantum lattice sieving require quantum RAM?
-##### Beomgeun Cho, Minki Hhan, [Taehyun Kim](https://quiqcl.snu.ac.kr/), Jeonghoon Lee, [Yixin Shen](https://www.irif.fr/~yixin.shen/index.html) <br> [eprint](https://eprint.iacr.org/2024/1700), 2024
+##### Beomgeun Cho, Minki Hhan, [Taehyun Kim](https://quiqcl.snu.ac.kr/), Jeonghoon Lee, [Yixin Shen](https://www.irif.fr/~yixin.shen/index.html) <br> [eprint](https://eprint.iacr.org/2024/1700), [arxiv](https://arxiv.org/abs/2410.15565) 2024
 
 
 * * *
