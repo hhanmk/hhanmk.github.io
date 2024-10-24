@@ -53,7 +53,8 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 - Organizing Committee
 ##### AQIS 2023
-
+<!--
+주석
 - Subreviewer
 ##### **Conferences**: Crypto, Eurocrypt, Asiacrypt, QIP, TQC, FC, PKC, CT-RSA, ACNS, PQCrypt, WAHC <br> **Journals**: npj quantum information, ToSC, IEEE Access, CIC
 
@@ -62,7 +63,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 - Hosting
 ##### [John Bostanci](https://www.johnbostanci.com/) (Colombia University) <br> [Nick Spooner](https://spooner.cc/) (Warwick University) <br> Kuo-Chin Chen (Foxconn Research) <br> Ryu Hayakawa (Kyoto University)
-
+-->
 * * *
 
 ### Publications
