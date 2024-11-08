@@ -110,6 +110,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
   17. Does quantum lattice sieving require quantum RAM?
 ##### Beomgeun Cho, Minki Hhan, [Taehyun Kim](https://quiqcl.snu.ac.kr/), Jeonghoon Lee, [Yixin Shen](https://www.irif.fr/~yixin.shen/index.html) <br> [eprint](https://eprint.iacr.org/2024/1700), [arxiv](https://arxiv.org/abs/2410.15565) 2024
+ 18. Pseudorandom Function-like States from Common Haar Unitary
+##### Minki Hhan, Shogo Yamada <br> [eprint](https://eprint.iacr.org/2024/1811), [arxiv](https://arxiv.org/abs/2411.03201)
 
 
 * * *
