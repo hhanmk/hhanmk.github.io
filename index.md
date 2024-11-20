@@ -117,6 +117,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Not-refereed Talks
+- Limits on the Provable Consequences of Pseudorandom Quantum States
+##### Nov. 2024, UT Austin, Texas, USA
 - Does quantum lattice sieving require quantum RAM?
 ##### Sep. 2024, Nagoya University, Nagoya, Japan (Hosted by [François Le Gall](http://www.francoislegall.com/) and [Akinori Kawachi](https://sites.google.com/site/akinorikawachi/))
 - Quantum Complexity for Discrete Logarithms and Integer Factorization
