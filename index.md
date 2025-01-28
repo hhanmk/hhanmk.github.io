@@ -63,7 +63,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 - Hosting
 ##### [John Bostanci](https://www.johnbostanci.com/) (Colombia University) <br> [Nick Spooner](https://spooner.cc/) (Warwick University) <br> Kuo-Chin Chen (Foxconn Research) <br> Ryu Hayakawa (Kyoto University)
 - Review experiences
-2025: STOC (1) QIP (1) Eurocrypt (2) DCC (1)
+2025: STOC (1) QIP (1) Eurocrypt (2) DCC (1) PRL (1) Quantum (1) %saved 1/27
 2024: Asiacrypt (1) Crypto (1) PRX quantum (1) TCC (2) QCrypt (10) TQC (1) PQCrypto (2) CIC (1)
 2023: Eurocrypt (1) Asiacrypt (1) Crypto (2) QIP (3) TQC (3) Latincrypt (5) ACNS (1)
 
