@@ -76,7 +76,7 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 
 **Refereed Conference Papers**
   17. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
-##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269), 2024 <br> [TQC 2024](https://tqc-conference.org/) (talk, merged with the below paper)
+##### Minki Hhan <br> Eurocrypt 2025, [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269) <br> [TQC 2024](https://tqc-conference.org/) (talk, merged with the below paper)
   1. Quantum Complexity for Discrete Logarithms and Related Problems
 ##### Minki Hhan, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> CRYPTO 2024, [eprint](https://eprint.iacr.org/2023/1054), [arixv](https://arxiv.org/abs/2307.03065) <br> [AQIS 2023](http://aqis-conf.org/2023/) (**Long talk**), [TQC 2024](https://tqc-conference.org/) (talk, merged with the above paper)
   2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
