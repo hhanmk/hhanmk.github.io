@@ -49,7 +49,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 #### Further Activities
 
 - Program Committee
-##### QCrypt 2024, LATINCRYPT 2023
+##### Asiacrypt 2025, [ISC 2025](https://isc25.skku.edu/call-for-papers/), [QCrypt 2024](https://2024.qcrypt.net/), LATINCRYPT 2023
 
 - Organizing Committee
 ##### AQIS 2023
