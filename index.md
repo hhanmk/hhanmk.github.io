@@ -49,7 +49,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 #### Further Activities
 
 - Program Committee
-##### Asiacrypt 2025, [ISC 2025](https://isc25.skku.edu/call-for-papers/), [QCrypt 2024](https://2024.qcrypt.net/), LATINCRYPT 2023
+##### [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/), [ISC 2025](https://isc25.skku.edu/call-for-papers/), [QCrypt 2024](https://2024.qcrypt.net/), LATINCRYPT 2023
 
 - Organizing Committee
 ##### AQIS 2023
@@ -64,7 +64,7 @@ Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/
 - Hosting
 ##### [John Bostanci](https://www.johnbostanci.com/) (Colombia University) <br> [Nick Spooner](https://spooner.cc/) (Warwick University) <br> Kuo-Chin Chen (Foxconn Research) <br> Ryu Hayakawa (Kyoto University)
 - Review experiences
-2025: Crypto (2) STOC (1) QIP (1) Eurocrypt (2) DCC (1) PRL (1) Quantum (1) %saved 2/18
+2025: TQC(1), Crypto (4) STOC (1) QIP (1) Eurocrypt (2) DCC (1) PRL (1) Quantum (1) %saved 2/18
 2024: Asiacrypt (1) Crypto (1) PRX quantum (1) TCC (2) QCrypt (10) TQC (1) PQCrypto (2) CIC (1)
 2023: Eurocrypt (1) Asiacrypt (1) Crypto (2) QIP (3) TQC (3) Latincrypt (5) ACNS (1)
 
@@ -92,6 +92,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br>[CRYPTO 2018](https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7), [eprint](https://eprint.iacr.org/2018/408)
         
 **Journal Articles**
+  1. Trade-off between Information Gain and Disturbance in Local Discrimination of Entangled Quantum States*
+##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [Quantum Science and Technology](https://iopscience.iop.org/article/10.1088/2058-9565/adc034/meta), 2025 <br> [arxiv](https://arxiv.org/abs/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/), 2023
   7. Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs*
 ##### [Seokho Jeong](http://qcl.kaist.ac.kr/index.php/Seokho_Jeong), [Minhyuk Kim](http://qcl.kaist.ac.kr/index.php/Minhyuk_Kim), Minki Hhan, JuYoung Park, [Jaewook Ahn](http://qcl.kaist.ac.kr/index.php/Jaewook_Ahn%27s_Quantum_Computing_Lab) <br> [Physics Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043037), 2023 <br> [arxiv](https://arxiv.org/abs/2302.14369), APS March Meeting 2023
   8. Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem
@@ -106,8 +108,6 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 **Preprints**
   12. Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
-  13. Non-destructive Local Discrimination of Entangled Quantum States*
-##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [arxiv](https://arxiv.org/abs/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/), 2023
   14. Oracle Recording for Non-Uniform Random Oracles, and its Applications
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023 
   15. On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications (tentative title)
@@ -123,6 +123,8 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 * * *
 
 ### Not-refereed Talks
+- How to prove a statement is hard to prove in TCS? (or, how not to construct pseudorandom unitaries from pseudorandom states)
+##### Mar. 2025, KIAS, Seoul, Korea
 - Limits on the Provable Consequences of Pseudorandom Quantum States
 ##### Nov. 2024, UT Austin, Texas, USA
 - Does quantum lattice sieving require quantum RAM?
