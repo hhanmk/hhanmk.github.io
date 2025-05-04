@@ -35,8 +35,12 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 ##### Aug. 2023, [QCrypt 2023](https://2023.qcrypt.net/)
 
 **International Conference Talks**
+  1. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
+##### May. 2025, [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
   1. Quantum Complexity for Discrete Logarithms and Related Problems
-##### Aug. 2023 [AQIS](http://aqis-conf.org/2023/) (**long talk**)
+##### Aug. 2024, [Crypto](https://crypto.iacr.org/2024/)
+  1. Quantum Complexity for Discrete Logarithms and Related Problems
+##### Aug. 2023, [AQIS](http://aqis-conf.org/2023/) (**long talk**)
   2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/) <br> Apr. 2023, [Eurocrypt 2023](https://eurocrypt.iacr.org/2023/) <br> Aug. 2023 [AQIS 2023](http://aqis-conf.org/2023/)
   3. Quantum Random Oracle Model with Auxiliary Input
@@ -76,6 +80,11 @@ Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
+ 18. Quantum Lifting for Invertible Permutations and Ideal Ciphers
+##### Alexandru Cojocaru, Minki Hhan, [Qipeng Liu](https://sites.google.com/view/qipengliu), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> Crypto 2025, [eprint]
+ 18. Pseudorandom Function-like States from Common Haar Unitary
+##### Minki Hhan, Shogo Yamada <br> TQC 2025, [eprint](https://eprint.iacr.org/2024/1811), [arxiv](https://arxiv.org/abs/2411.03201)
+(https://eprint.iacr.org/2024/1811), [arxiv](https://arxiv.org/abs/2411.03201)
   17. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
 ##### Minki Hhan <br> Eurocrypt 2025, [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269) <br> [TQC 2024](https://tqc-conference.org/) (talk, merged with the below paper)
   1. Quantum Complexity for Discrete Logarithms and Related Problems
@@ -116,9 +125,6 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [arxiv](https://arxiv.org/abs/2312.16025), 2023
   17. Does quantum lattice sieving require quantum RAM?
 ##### Beomgeun Cho, Minki Hhan, [Taehyun Kim](https://quiqcl.snu.ac.kr/), Jeonghoon Lee, [Yixin Shen](https://www.irif.fr/~yixin.shen/index.html) <br> [eprint](https://eprint.iacr.org/2024/1700), [arxiv](https://arxiv.org/abs/2410.15565) 2024
- 18. Pseudorandom Function-like States from Common Haar Unitary
-##### Minki Hhan, Shogo Yamada <br> [eprint](https://eprint.iacr.org/2024/1811), [arxiv](https://arxiv.org/abs/2411.03201)
-
 
 * * *
 
