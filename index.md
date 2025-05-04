@@ -36,11 +36,9 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 **International Conference Talks**
   1. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
-##### May. 2025, [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/), [TQC 2024](https://tqc-conference.org/tqc-2024/)
+##### May. 2025, [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/) <br> Sep. 2024, [TQC 2024](https://tqc-conference.org/tqc-2024/)
   1. Quantum Complexity for Discrete Logarithms and Related Problems
-##### Aug. 2024, [Crypto 2024](https://crypto.iacr.org/2024/), [TQC 2024](https://tqc-conference.org/tqc-2024/)
-  1. Quantum Complexity for Discrete Logarithms and Related Problems
-##### Aug. 2023, [AQIS 2023](http://aqis-conf.org/2023/) (**long talk**)
+##### Aug. 2024, [Crypto 2024](https://crypto.iacr.org/2024/) <br> Sep. 2024, [TQC 2024](https://tqc-conference.org/tqc-2024/) <br> Aug. 2023, [AQIS 2023](http://aqis-conf.org/2023/) (**long talk**)
   2. From the Hardness of Detecting Superpositions to Cryptography: Quantum Public Key Encryption and Commitments
 ##### Dec. 2022, [QCW 2022](https://qcw2022.github.io/quantum-cryptography-workshop-2022/) (affiliated with [Asiacrypt 2022](https://asiacrypt.iacr.org/2022/)) <br> Feb. 2023, [QIP 2023](https://indico.cern.ch/event/1175020/) <br> Apr. 2023, [Eurocrypt 2023](https://eurocrypt.iacr.org/2023/) <br> Aug. 2023 [AQIS 2023](http://aqis-conf.org/2023/)
   3. Quantum Random Oracle Model with Auxiliary Input
