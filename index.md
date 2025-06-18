@@ -7,6 +7,15 @@ My name is Minki Hhan (한민기, 韓旻琪).
 My primary topics are quantum algorithms and (post-)quantum cryptography, but I am also interested in broader topics such as theoretical computer science or computational complexity.
 
 * * *
+### Recent News
+- (Jun. 2025) The reverse equilibrium problem paper was accepted at DNA 2025
+- (May. 2025) Invited to be a PC member of Eurocrypt 2026 
+- (May. 2025) The quantum lifting paper was accepted at Crypto 2025 (Jun. 2025) and at QCrypt 2025 for presentation 
+- (May. 2025) The common Haar random unitary model paper was accepted at TQC 2025 for presentation 
+- (Mar. 2025) Invited to be a PC member of Asiacrypt 2025 
+- (Jan. 2025) The new classical/quantum generic model paper was accepted at Eurocrypt 2025
+- (Oct. 2024) I moved to UT Austin!
+* * *
 
 ### Positions
 - 2024.10 - now: Postdoctoral Fellow,
