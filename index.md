@@ -15,6 +15,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 - (Mar. 2025) Invited to be a PC member of Asiacrypt 2025 
 - (Jan. 2025) The new classical/quantum generic model paper was accepted at Eurocrypt 2025
 - (Oct. 2024) I moved to UT Austin!
+
 * * *
 
 ### Positions
