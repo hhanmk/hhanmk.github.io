@@ -7,7 +7,7 @@ My name is Minki Hhan (한민기, 韓旻琪).
 My primary topics are quantum algorithms and (post-)quantum cryptography, but I am also interested in broader topics such as theoretical computer science or computational complexity.
 
 * * *
-### Recent News
+#### Recent News
 - (Jun. 2025) The reverse equilibrium problem paper was accepted at DNA 2025
 - (May. 2025) Invited to be a PC member of Eurocrypt 2026 
 - (May. 2025) The quantum lifting paper was accepted at Crypto 2025 (Jun. 2025) and at QCrypt 2025 for presentation 
@@ -18,7 +18,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 * * *
 
-### Positions
+#### Positions
 - 2024.10 - now: Postdoctoral Fellow,
 ##### The University of Texas at Austin, USA (Host: [David Soloveichik](https://www.solo-group.link/members/david-soloveichik) and [Scott Aaronson](https://www.scottaaronson.com/))
 - 2024.3 - 2024.10: QUC Fellow (QUC Assistant Professor),
