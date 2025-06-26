@@ -8,12 +8,13 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 * * *
 #### Recent News
-- (Jun. 2025) The reverse equilibrium problem paper was accepted at DNA 2025
-- (May. 2025) Invited to be a PC member of Eurocrypt 2026 
-- (May. 2025) The quantum lifting paper was accepted at Crypto 2025 (Jun. 2025) and at QCrypt 2025 for presentation 
-- (May. 2025) The common Haar random unitary model paper was accepted at TQC 2025 for presentation 
-- (Mar. 2025) Invited to be a PC member of Asiacrypt 2025 
-- (Jan. 2025) The new classical/quantum generic model paper was accepted at Eurocrypt 2025
+- (Aug. 2025) I will give a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
+- (Jun. 2025) A paper was accepted at [DNA 2025](https://dna31.sciencesconf.org/)
+- (May. 2025) Invited to be a PC member of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) 
+- (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
+- (May. 2025) The common Haar random unitary model paper was accepted at [TQC 2025](https://tqc-conference.org/) for presentation 
+- (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
+- (Jan. 2025) The new classical/quantum generic model paper was accepted at [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
 - (Oct. 2024) I moved to UT Austin!
 
 * * *
