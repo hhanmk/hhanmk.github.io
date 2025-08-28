@@ -8,11 +8,11 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 * * *
 #### Recent News
-- (Aug. 2025) I will give a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
-- (Jun. 2025) A paper was accepted at [DNA 2025](https://dna31.sciencesconf.org/)
+- (Aug. 2024) The common Haar random unitary model paper was accepted at TCC 2025 and (May. 2025) [TQC 2025](https://tqc-conference.org/) for presentation
+- (Aug. 2025) I gave a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
+- (Jun. 2025) A paper was accepted at [DNA31](https://dna31.sciencesconf.org/)
 - (May. 2025) Invited to be a PC member of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) 
 - (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
-- (May. 2025) The common Haar random unitary model paper was accepted at [TQC 2025](https://tqc-conference.org/) for presentation 
 - (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
 - (Jan. 2025) The new classical/quantum generic model paper was accepted at [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
 - (Oct. 2024) I moved to UT Austin!
@@ -89,10 +89,12 @@ Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/
 See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en). The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
+ 19. Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems
+##### Hamidreza Akef, Minki Hhan, David Soloveichik <br> [DNA31](https://dna31.sciencesconf.org/), [arxiv](https://arxiv.org/abs/2507.12699)
  18. Quantum Lifting for Invertible Permutations and Ideal Ciphers
 ##### Alexandru Cojocaru, Minki Hhan, [Qipeng Liu](https://sites.google.com/view/qipengliu), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> Crypto 2025, [eprint](https://eprint.iacr.org/2025/738), [arxiv](https://arxiv.org/abs/2504.18188)
  18. Pseudorandom Function-like States from Common Haar Unitary
-##### Minki Hhan, Shogo Yamada <br> TQC 2025, [eprint](https://eprint.iacr.org/2024/1811), [arxiv](https://arxiv.org/abs/2411.03201)
+##### Minki Hhan, Shogo Yamada <br> TCC 2025, TQC 2025, [eprint](https://eprint.iacr.org/2024/1811), [arxiv](https://arxiv.org/abs/2411.03201)
   17. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
 ##### Minki Hhan <br> Eurocrypt 2025, [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269) <br> [TQC 2024](https://tqc-conference.org/tqc-2024/) (talk, merged with the below paper)
   1. Quantum Complexity for Discrete Logarithms and Related Problems
