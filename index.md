@@ -8,9 +8,9 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 * * *
 #### Recent News
-- (Aug. 2024) The common Haar random unitary model paper was accepted at TCC 2025 and (May. 2025) [TQC 2025](https://tqc-conference.org/) for presentation
+- (Aug. 2025) The common Haar random unitary model paper was accepted at TCC 2025 and (May. 2025) [TQC 2025](https://tqc-conference.org/) for presentation
 - (Aug. 2025) I gave a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
-- (Jun. 2025) A paper was accepted at [DNA31](https://dna31.sciencesconf.org/)
+- (Jun. 2025) A paper was accepted at [DNA31](https://dna31.sciencesconf.org/), and Excellent Student Paper Award is awarded to my coauthor Hamidreza!
 - (May. 2025) Invited to be a PC member of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) 
 - (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
 - (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
