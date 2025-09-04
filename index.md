@@ -8,6 +8,7 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 
 * * *
 #### Recent News
+- (Sep. 2025) The quantum OWSG output length paper was accepted at CiC
 - (Aug. 2025) The common Haar random unitary model paper was accepted at TCC 2025 and (May. 2025) [TQC 2025](https://tqc-conference.org/) for presentation
 - (Aug. 2025) I gave a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
 - (Jun. 2025) A paper was accepted at [DNA31](https://dna31.sciencesconf.org/), and Excellent Student Paper Award is awarded to my coauthor Hamidreza!
