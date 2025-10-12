@@ -78,10 +78,10 @@ Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/
 - Hosting
 ##### [John Bostanci](https://www.johnbostanci.com/) (Colombia University) <br> [Nick Spooner](https://spooner.cc/) (Warwick University) <br> Kuo-Chin Chen (Foxconn Research) <br> Ryu Hayakawa (Kyoto University)
 - Review experiences
+In the middle of 2025, I gave up to count the number of my reviews
 2025: TQC(1), Crypto (4) STOC (1) QIP (1) Eurocrypt (2) DCC (1) PRL (1) Quantum (1) %saved 2/18
 2024: Asiacrypt (1) Crypto (1) PRX quantum (1) TCC (2) QCrypt (10) TQC (1) PQCrypto (2) CIC (1)
 2023: Eurocrypt (1) Asiacrypt (1) Crypto (2) QIP (3) TQC (3) Latincrypt (5) ACNS (1)
-
 -->
 
 * * *
@@ -126,6 +126,12 @@ See also [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki) and [Google Scholar](http
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://ieeexplore.ieee.org/document/8401690), 2018 <br> [eprint](https://eprint.iacr.org/2018/397)
 
 **Preprints**
+ 19. On Limits on the Provable Consequences of Quantum Pseudorandomness
+##### [Samuel Bouaziz--Ermann](https://perso.eleves.ens-rennes.fr/people/samuel.bouaziz/), Minki Hhan, Garazi Muguruza, [Quoc-Huy Vu](https://www.di.ens.fr/~qhvu/) <br> [eprint](https://eprint.iacr.org/2025/1863), [arxiv](https://arxiv.org/abs/2510.04159), 2025
+ 19. Proofs of quantum memory
+##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), Yasuaki Okinaka, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [eprint](https://eprint.iacr.org/2025/1837), [arxiv](https://arxiv.org/abs/2510.05393), 2025
+ 19. Shallow quantum circuit for generating O(1)-entangled approximate state designs
+##### Wonjun Lee, Minki Hhan, [Gil Young Cho](https://sites.google.com/site/gilyoungchogroup/home), Hyukjoon Kwon <br> [arxiv](https://arxiv.org/abs/2507.17871), 2025
   12. Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
 ##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
   14. Oracle Recording for Non-Uniform Random Oracles, and its Applications
