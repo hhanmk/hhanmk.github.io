@@ -7,21 +7,6 @@ My name is Minki Hhan (한민기, 韓旻琪).
 My primary topics include quantum algorithms and (post-)quantum cryptography. I am also interested in broader topics such as theoretical computer science or computational complexity.
 
 * * *
-#### Recent News
-- (Feb. 2026) I moved to KAIST!
-- (Jan. 2026) Invited to be a PC member of [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/)
-- (Sep. 2025) The quantum OWSG output length paper was accepted at CiC
-- (Aug. 2025) The common Haar random unitary model paper was accepted at TCC 2025 and (May. 2025) [TQC 2025](https://tqc-conference.org/) for presentation
-- (Aug. 2025) I gave a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
-- (Jun. 2025) A paper was accepted at [DNA31](https://dna31.sciencesconf.org/), and Excellent Student Paper Award is awarded to my coauthor Hamidreza!
-- (May. 2025) Invited to be a PC member of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) 
-- (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
-- (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
-<!--
-- (Jan. 2025) The new classical/quantum generic model paper was accepted at [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
-- (Oct. 2024) I moved to UT Austin!
--->
-* * *
 
 #### Positions
 - 2026.1 - now: Assistant Professor, KAIST
@@ -58,6 +43,24 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 - 2018.10 - 2019.1: Research intern, NTT Japan
 
 * * *
+#### Recent News
+- (Feb. 2026) I moved to KAIST!
+- (Jan. 2026) Invited to be a PC member of [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/)
+- (Sep. 2025) The quantum OWSG output length paper was accepted at CiC
+- (Aug. 2025) The common Haar random unitary model paper was accepted at TCC 2025 and (May. 2025) [TQC 2025](https://tqc-conference.org/) for presentation
+- (Aug. 2025) I gave a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
+- (Jun. 2025) A paper was accepted at [DNA31](https://dna31.sciencesconf.org/), and Excellent Student Paper Award is awarded to my coauthor Hamidreza!
+- (May. 2025) Invited to be a PC member of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) 
+- (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
+- (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
+* * *
+
+
+<!--
+- (Jan. 2025) The new classical/quantum generic model paper was accepted at [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
+- (Oct. 2024) I moved to UT Austin!
+-->
+
 
 ### Research Activities
 
