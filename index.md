@@ -43,6 +43,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 - 2018.10 - 2019.1: Research intern, NTT Japan
 
 * * *
+
 #### Recent News
 - (Feb. 2026) I moved to KAIST!
 - (Jan. 2026) Invited to be a PC member of [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/)
@@ -53,6 +54,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 - (May. 2025) Invited to be a PC member of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) 
 - (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
 - (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
+
 * * *
 
 
