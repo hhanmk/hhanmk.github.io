@@ -4,10 +4,12 @@ layout: default
 
 My name is Minki Hhan (한민기, 韓旻琪).
 
-My primary topics are quantum algorithms and (post-)quantum cryptography, but I am also interested in broader topics such as theoretical computer science or computational complexity.
+My primary topics include quantum algorithms and (post-)quantum cryptography. I am also interested in broader topics such as theoretical computer science or computational complexity.
 
 * * *
 #### Recent News
+- (Feb. 2026) I moved to KAIST!
+- (Jan. 2026) Invited to be a PC member of [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/)
 - (Sep. 2025) The quantum OWSG output length paper was accepted at CiC
 - (Aug. 2025) The common Haar random unitary model paper was accepted at TCC 2025 and (May. 2025) [TQC 2025](https://tqc-conference.org/) for presentation
 - (Aug. 2025) I gave a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
@@ -15,13 +17,21 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 - (May. 2025) Invited to be a PC member of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) 
 - (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
 - (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
+<!--
 - (Jan. 2025) The new classical/quantum generic model paper was accepted at [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
 - (Oct. 2024) I moved to UT Austin!
-
+-->
 * * *
 
 #### Positions
-- 2024.10 - now: Postdoctoral Fellow,
+- 2026.1 - now: Assistant Professor, KAIST
+- 2024.10 - 2026.1: Postdoctoral Fellow, UT Austin
+- 2024.3 - 2024.10: QUC Fellow, KIAS
+- 2022.9 - 2024.3: QUC Research Fellow, KIAS
+
+<!--
+#### Positions
+- 2024.10 - 2025.1: Postdoctoral Fellow,
 ##### The University of Texas at Austin, USA (Host: [David Soloveichik](https://www.solo-group.link/members/david-soloveichik) and [Scott Aaronson](https://www.scottaaronson.com/))
 - 2024.3 - 2024.10: QUC Fellow (QUC Assistant Professor),
 ##### Korea Institute for Advanced Study (KIAS), Republic of Korea
@@ -37,6 +47,15 @@ My primary topics are quantum algorithms and (post-)quantum cryptography, but I 
 #### Experience
 - 2018.10 - 2019.1: Research intern,
 ##### NTT Secure Platform Laboratories, Japan (Advisors: [Keita Xagawa](http://xagawa.net/), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa))
+
+-->
+
+#### Education
+- 2016.3 - 2022.8: PhD in Mathematics, SNU
+- 2011.3 - 2016.2: BSc in Mathematics, SNU
+
+#### Experience
+- 2018.10 - 2019.1: Research intern, NTT Japan
 
 * * *
 
