@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-description: 
+description: Minki Hhan
 ---
 The author names are in alphabetical order unless marked with *.
 
