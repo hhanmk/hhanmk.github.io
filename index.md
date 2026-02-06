@@ -63,7 +63,6 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 - (Oct. 2024) I moved to UT Austin!
 -->
 
-[[This page](./collection.html)] collects my favorite research-related things.   
 ### Research Activities
 
 <!--
@@ -104,8 +103,7 @@ In the middle of 2025, I gave up to count the number of my reviews
 -->
 
 
-### Publications
-See [DBLP](https://dblp.org/pers/hd/h/Hhan:Minki), [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en), or [this page](./publications.html)
+- [Publications](./publications.html). See also [dblp](https://dblp.org/pers/hd/h/Hhan:Minki) or [Google Scholar](https://scholar.google.com/citations?user=T5xFDAMAAAAJ&hl=en).
 
 - [Talks](./talks.html)
 
