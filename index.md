@@ -45,6 +45,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 * * *
 
 #### Recent News
+- (Feb. 2026) Invited to be a PC member of PKC 2027.
 - (Feb. 2026) I moved to KAIST!
 - (Jan. 2026) Invited to be a PC member of [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/)
 - (Sep. 2025) The quantum OWSG output length paper was accepted at CiC
@@ -88,7 +89,7 @@ In the middle of 2025, I gave up to count the number of my reviews
 - [Talks](./talks.html)
 
 - Program Committee
-##### [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/), [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/), [ISC 2025](https://isc25.skku.edu/call-for-papers/), [QCrypt 2024](https://2024.qcrypt.net/), [LATINCRYPT 2023](https://www.espe.edu.ec/latincrypt/)
+##### PKC 2027, [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/), [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/), [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/), [ISC 2025](https://isc25.skku.edu/call-for-papers/), [QCrypt 2024](https://2024.qcrypt.net/), [LATINCRYPT 2023](https://www.espe.edu.ec/latincrypt/)
 
 - Organizing Committee
 ##### AQIS 2023
