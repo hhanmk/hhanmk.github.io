@@ -2,6 +2,9 @@
 layout: default
 ---
 
+*I am recruiting students (and postdocs) interested in the theory of computing.*
+* * *
+
 My name is Minki Hhan (한민기, 韓旻琪).
 
 My primary topics include quantum algorithms and (post-)quantum cryptography. I am also interested in broader topics such as theoretical computer science or computational complexity.
