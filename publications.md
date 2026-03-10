@@ -45,9 +45,9 @@ The author names are in alphabetical order unless marked with *.
 
 **Preprints**
  19. On Limits on the Provable Consequences of Quantum Pseudorandomness
-##### [Samuel Bouaziz--Ermann](https://perso.eleves.ens-rennes.fr/people/samuel.bouaziz/), Minki Hhan, Garazi Muguruza, [Quoc-Huy Vu](https://www.di.ens.fr/~qhvu/) <br> [eprint](https://eprint.iacr.org/2025/1863), [arxiv](https://arxiv.org/abs/2510.04159), 2025
+##### [Samuel Bouaziz--Ermann](https://perso.eleves.ens-rennes.fr/people/samuel.bouaziz/), Minki Hhan, Garazi Muguruza, [Quoc-Huy Vu](https://www.di.ens.fr/~qhvu/) <br> [eprint](https://eprint.iacr.org/2025/1863), [arxiv](https://arxiv.org/abs/2510.05393), 2025
  19. Proofs of quantum memory
-##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), Yasuaki Okinaka, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [eprint](https://eprint.iacr.org/2025/1837), [arxiv](https://arxiv.org/abs/2510.05393), 2025
+##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), Yasuaki Okinaka, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [eprint](https://eprint.iacr.org/2025/1837), [arxiv](https://arxiv.org/abs/2510.04159), 2025
  19. Shallow quantum circuit for generating O(1)-entangled approximate state designs
 ##### Wonjun Lee, Minki Hhan, [Gil Young Cho](https://sites.google.com/site/gilyoungchogroup/home), Hyukjoon Kwon <br> [arxiv](https://arxiv.org/abs/2507.17871), 2025
   12. Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
