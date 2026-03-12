@@ -12,7 +12,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 * * *
 
 #### Positions
-- 2026.1 - now: Assistant Professor, KAIST
+- 2026.2 - now: Assistant Professor, KAIST
 - 2024.10 - 2026.1: Postdoctoral Fellow, UT Austin
 - 2024.3 - 2024.10: QUC Fellow, KIAS
 - 2022.9 - 2024.3: QUC Research Fellow, KIAS
@@ -48,6 +48,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 * * *
 
 #### Recent News
+- (Mar. 2026) The sparse-secret LWE with hint was accepted at S&P.
 - (Feb. 2026) Invited to be a PC member of PKC 2027.
 - (Feb. 2026) I moved to KAIST!
 - (Jan. 2026) Invited to be a PC member of [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/)
