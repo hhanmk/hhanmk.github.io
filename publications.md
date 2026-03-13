@@ -6,12 +6,14 @@ description: Minki Hhan
 The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
+ 20. From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight
+ ##### Ga Hee Hong, Minki Hhan, Jiseung Kim, Jeong Hwan Lee, Changmin Lee <br> S&P 2026
  19. Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems
 ##### Hamidreza Akef, Minki Hhan, David Soloveichik <br> [DNA31](https://dna31.sciencesconf.org/), [arxiv](https://arxiv.org/abs/2507.12699)
  18. Quantum Lifting for Invertible Permutations and Ideal Ciphers
-##### Alexandru Cojocaru, Minki Hhan, [Qipeng Liu](https://sites.google.com/view/qipengliu), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [Crypto 2025](https://link.springer.com/chapter/10.1007/978-3-032-01878-6_16), [eprint](https://eprint.iacr.org/2025/738), [arxiv](https://arxiv.org/abs/2504.18188)
+##### Alexandru Cojocaru, Minki Hhan, [Qipeng Liu](https://sites.google.com/view/qipengliu), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa), Aaram Yun <br> [Crypto 2025](https://link.springer.com/chapter/10.1007/978-3-032-01878-6_16), [eprint](https://eprint.iacr.org/2025/738), [arxiv](https://arxiv.org/abs/2504.18188) <br> QCrypt 2025, QIP 2026
  18. Pseudorandom Function-like States from Common Haar Unitary
-##### Minki Hhan, Shogo Yamada <br> TCC 2025, TQC 2025, [eprint](https://eprint.iacr.org/2024/1811), [arxiv](https://arxiv.org/abs/2411.03201)
+##### Minki Hhan, Shogo Yamada <br> TCC 2025, , [eprint](https://eprint.iacr.org/2024/1811), [arxiv](https://arxiv.org/abs/2411.03201) <br> TQC 2025
   17. A New Approach to Generic Lower Bounds: Classical/Quantum MDL, Quantum Factoring, and More
 ##### Minki Hhan <br> [Eurocrypt 2025](https://link.springer.com/chapter/10.1007/978-3-031-91098-2_13), [eprint](https://eprint.iacr.org/2024/268), [arxiv](https://arxiv.org/abs/2402.11269) <br> [TQC 2024](https://tqc-conference.org/tqc-2024/) (talk, merged with the below paper)
   1. Quantum Complexity for Discrete Logarithms and Related Problems
