@@ -7,7 +7,7 @@ The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
  20. From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight
- ##### Ga Hee Hong, Minki Hhan, Jiseung Kim, Jeong Hwan Lee, Changmin Lee <br> S&P 2026
+##### Ga Hee Hong, Minki Hhan, Jiseung Kim, Jeong Hwan Lee, Changmin Lee <br> S&P 2026
  19. Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems
 ##### Hamidreza Akef, Minki Hhan, David Soloveichik <br> [DNA31](https://dna31.sciencesconf.org/), [arxiv](https://arxiv.org/abs/2507.12699)
  18. Quantum Lifting for Invertible Permutations and Ideal Ciphers
