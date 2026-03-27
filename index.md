@@ -48,6 +48,8 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 * * *
 
 #### Recent News
+- (Mar. 2026) The quantum design paper was accepted as PRL.
+- (Mar. 2026) The new hybrid attack was accepted at DCC.
 - (Mar. 2026) The sparse-secret LWE with hint was accepted at S&P.
 - (Feb. 2026) Invited to be a PC member of PKC 2027.
 - (Feb. 2026) I moved to KAIST!
@@ -57,13 +59,13 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 - (Aug. 2025) I gave a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
 - (Jun. 2025) A paper was accepted at [DNA31](https://dna31.sciencesconf.org/), and Excellent Student Paper Award is awarded to my coauthor Hamidreza!
 - (May. 2025) Invited to be a PC member of [Eurocrypt 2026](https://eurocrypt.iacr.org/2026/) 
-- (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
-- (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
 
 * * *
 
 
 <!--
+- (May. 2025) The quantum permutation lifting paper was accepted at [Crypto 2025](https://crypto.iacr.org/2025/) (Jun. 2025) and at [QCrypt 2025](https://qcrypt.net/2025/) for presentation 
+- (Mar. 2025) Invited to be a PC member of [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/)
 - (Jan. 2025) The new classical/quantum generic model paper was accepted at [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/)
 - (Oct. 2024) I moved to UT Austin!
 -->
