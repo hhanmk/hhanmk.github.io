@@ -7,7 +7,7 @@ The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
  20. From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight
-##### Ga Hee Hong, Minki Hhan, Jiseung Kim, Jeong Hwan Lee, Changmin Lee <br> S&P 2026
+##### Minki Hhan, Ga Hee Hong, Jiseung Kim, Changmin Lee, Jeong Hwan Lee <br> S&P 2026 (to appear)
  19. Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems
 ##### Hamidreza Akef, Minki Hhan, David Soloveichik <br> [DNA31](https://dna31.sciencesconf.org/), [arxiv](https://arxiv.org/abs/2507.12699)
  18. Quantum Lifting for Invertible Permutations and Ideal Ciphers
@@ -30,6 +30,10 @@ The author names are in alphabetical order unless marked with *.
 ##### [Jung Hee Cheon](http://www.math.snu.ac.kr/~jhcheon/xe2/), Minki Hhan, Jiseung Kim, Changmin Lee <br>[CRYPTO 2018](https://link.springer.com/chapter/10.1007/978-3-319-96878-0_7), [eprint](https://eprint.iacr.org/2018/408)
         
 **Journal Articles**
+12. A Hybrid of Lattice-reduction and Meet-LWE via Near-Collision on Babai's Plane
+##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> Designs, Codes and Cryptography (to appear), 2026 <br> [eprint](https://eprint.iacr.org/2022/1473)
+19. Shallow quantum circuit for generating extremely low-entangled approximate state designs*
+##### Wonjun Lee, Minki Hhan, [Gil Young Cho](https://sites.google.com/site/gilyoungchogroup/home), Hyukjoon Kwon <br> [Physical Review Letter](https://doi.org/10.1103/p966-lcgs), 2026 <br> [arxiv](https://arxiv.org/abs/2507.17871)
   16. A Note on Output Length of One-Way State Generators and EFIs
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [Communications in Cryptology](https://cic.iacr.org/p/2/3/26), 2025 <br> [arxiv](https://arxiv.org/abs/2312.16025)
   1. Trade-off between Information Gain and Disturbance in Local Discrimination of Entangled Quantum States*
@@ -50,10 +54,6 @@ The author names are in alphabetical order unless marked with *.
 ##### [Samuel Bouaziz--Ermann](https://perso.eleves.ens-rennes.fr/people/samuel.bouaziz/), Minki Hhan, Garazi Muguruza, [Quoc-Huy Vu](https://www.di.ens.fr/~qhvu/) <br> [eprint](https://eprint.iacr.org/2025/1863), [arxiv](https://arxiv.org/abs/2510.05393), 2025
  19. Proofs of quantum memory
 ##### Minki Hhan, [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html), Yasuaki Okinaka, [Takashi Yamakawa](https://sites.google.com/view/takashiyamakawa) <br> [eprint](https://eprint.iacr.org/2025/1837), [arxiv](https://arxiv.org/abs/2510.04159), 2025
- 19. Shallow quantum circuit for generating O(1)-entangled approximate state designs
-##### Wonjun Lee, Minki Hhan, [Gil Young Cho](https://sites.google.com/site/gilyoungchogroup/home), Hyukjoon Kwon <br> [arxiv](https://arxiv.org/abs/2507.17871), 2025
-  12. Let's Meet Ternary Keys on Babai's Plane: A Hybrid of Lattice-reduction and Meet-LWE (tentative title)
-##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> [eprint](https://eprint.iacr.org/2022/1473), 2022
   14. Oracle Recording for Non-Uniform Random Oracles, and its Applications
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023 
   15. On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications (tentative title)
