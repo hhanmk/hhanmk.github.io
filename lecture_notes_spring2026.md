@@ -4,6 +4,9 @@ title: Introduction to Quantum Algorithms (cs.49900) Spring 2026
 description: Lecture notes & slides
 ---
 
+Lecture notes for KAIST Spring 2026 cs.49900. 
+Lecturer: Minki Hhan
+
   1. Introduction [(pptx)](./lecture%20slides/1.Introduction.pptx)
   2. Reversible computing [(pptx)](./lecture%20slides/2.Reversible%20computing.pptx)
   2. Single qubit [(pptx)](./lecture%20slides/3.Single%20qubit.pptx)
