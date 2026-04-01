@@ -90,7 +90,7 @@ In the middle of 2025, I gave up counting the precise number of my reviews. The 
 2024: Asiacrypt (1) Crypto (1) PRX quantum (1) TCC (2) QCrypt (10) TQC (1) PQCrypto (2) CIC (1)                                SUM = 19
 2023: Eurocrypt (1) Asiacrypt (1) Crypto (2) QIP (3) TQC (3) Latincrypt (5) ACNS (1)                                           SUM = 16
                                                                                                                               TOTAL = 72
-I do not count the reviews before 2022.
+I do not include reviews before 2022.
 -->
 
 
