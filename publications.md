@@ -9,7 +9,7 @@ The author names are in alphabetical order unless marked with *.
  20. From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight
 ##### Minki Hhan, Ga Hee Hong, Jiseung Kim, Changmin Lee, Jeong Hwan Lee <br> S&P 2026 (to appear)
  19. Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems
-##### Hamidreza Akef, Minki Hhan, David Soloveichik <br> [DNA31](https://doi.org/10.4230/LIPIcs.DNA.31.10), [arxiv](https://arxiv.org/abs/2507.12699)
+##### Hamidreza Akef, Minki Hhan, [David Soloveichik](david-soloveichik) <br> [DNA31](https://doi.org/10.4230/LIPIcs.DNA.31.10), [arxiv](https://arxiv.org/abs/2507.12699)
  18. Quantum Lifting for Invertible Permutations and Ideal Ciphers
 ##### Alexandru Cojocaru, Minki Hhan, [Qipeng Liu][qipeng-liu], [Takashi Yamakawa][takashi-yamakawa], Aaram Yun <br> [Crypto 2025](https://doi.org/10.1007/978-3-032-01878-6_16), [eprint](https://eprint.iacr.org/2025/738), [arxiv](https://arxiv.org/abs/2504.18188) <br> QCrypt 2025, QIP 2026
  18. Pseudorandom Function-like States from Common Haar Unitary
@@ -31,7 +31,7 @@ The author names are in alphabetical order unless marked with *.
         
 **Journal Articles**
 12. A Hybrid of Lattice-reduction and Meet-LWE via Near-Collision on Babai's Plane
-##### Minki Hhan, Jiseung Kim, Changmin Lee, Yongha Son <br> Designs, Codes and Cryptography (to appear), 2026 <br> [eprint](https://eprint.iacr.org/2022/1473)
+##### Minki Hhan, Jiseung Kim, Changmin Lee, [Yongha Son](yongha-son) <br> Designs, Codes and Cryptography (to appear), 2026 <br> [eprint](https://eprint.iacr.org/2022/1473)
 19. Shallow quantum circuit for generating extremely low-entangled approximate state designs*
 ##### Wonjun Lee, Minki Hhan, [Gil Young Cho][gil-young-cho], Hyukjoon Kwon <br> [Physical Review Letter](https://doi.org/10.1103/p966-lcgs), 2026 <br> [arxiv](https://arxiv.org/abs/2507.17871)
   16. A Note on Output Length of One-Way State Generators and EFIs
@@ -43,7 +43,7 @@ The author names are in alphabetical order unless marked with *.
   8. Algorithms for CRT-variant of Approximate Greatest Common Divisor Problem
 ##### [Jung Hee Cheon][jung-hee-cheon], Wonhee Cho, Minki Hhan, Minsik Kang, Jiseung Kim, Changmin Lee <br>[Journal of Mathematical Cryptology](https://doi.org/10.1515/jmc-2019-0031), 2020 <br> [NutMic 2019](http://nutmic2019.imj-prg.fr/), [eprint](https://eprint.iacr.org/2019/195)
   9. A Hybrid of Dual and Meet-in-the-Middle Attack on Sparse and Ternary Secret LWE
-##### [Jung Hee Cheon][jung-hee-cheon], Minki Hhan, [Seungwan Hong][seungwan-hong], Yongha Son <br> [IEEE Access](https://doi.org/10.1109/ACCESS.2019.2925425), 2019 <br> [eprint](https://eprint.iacr.org/2019/1114)
+##### [Jung Hee Cheon][jung-hee-cheon], Minki Hhan, [Seungwan Hong][seungwan-hong], [Yongha Son](yongha-son) <br> [IEEE Access](https://doi.org/10.1109/ACCESS.2019.2925425), 2019 <br> [eprint](https://eprint.iacr.org/2019/1114)
   10. Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping*
 ##### [Kyoohyung Han][kyoohyung-han], Minki Hhan, [Jung Hee Cheon][jung-hee-cheon] <br> [IEEE Access](https://doi.org/10.1109/ACCESS.2019.2913850), 2019 <br> [eprint](https://eprint.iacr.org/2018/1073)
   11. Cryptanalysis on the HHSS Obfuscation Arising From Absence of Safeguards
@@ -82,3 +82,5 @@ The author names are in alphabetical order unless marked with *.
 [vassilis-zikas]: https://www.cs.purdue.edu/homes/vzikas/
 [taehyun-kim]: https://quiqcl.snu.ac.kr/
 [yixin-shen]: https://www.irif.fr/~yixin.shen/index.html
+[yongha-son]: https://yonghaason.github.io/
+[david-soloveichik]: https://www.solo-group.link/members/david-soloveichik
