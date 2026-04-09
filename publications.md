@@ -31,7 +31,7 @@ The author names are in alphabetical order unless marked with *.
         
 **Journal Articles**
 12. A Hybrid of Lattice-reduction and Meet-LWE via Near-Collision on Babai's Plane
-##### Minki Hhan, Jiseung Kim, Changmin Lee, [Yongha Son](yongha-son) <br> Designs, Codes and Cryptography (to appear), 2026 <br> [eprint](https://eprint.iacr.org/2022/1473)
+##### Minki Hhan, Jiseung Kim, Changmin Lee, [Yongha Son](yongha-son) <br> [Designs, Codes and Cryptography](https://doi.org/10.1007/s10623-026-01813-1), 2026 <br> [eprint](https://eprint.iacr.org/2022/1473)
 19. Shallow quantum circuit for generating extremely low-entangled approximate state designs*
 ##### Wonjun Lee, Minki Hhan, [Gil Young Cho][gil-young-cho], Hyukjoon Kwon <br> [Physical Review Letter](https://doi.org/10.1103/p966-lcgs), 2026 <br> [arxiv](https://arxiv.org/abs/2507.17871)
   16. A Note on Output Length of One-Way State Generators and EFIs
