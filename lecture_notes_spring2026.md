@@ -14,3 +14,5 @@ Lecturer: Minki Hhan
   2. Quantum gates and Deutsch algorithm [(pptx)](./lecture%20slides/5.Quantum%20gates%20and%20Deutsch%20algorithm.pptx), [(pdf: Deustch)](./lecture%20slides/Deustch.pdf)
   2. QFT, Deustch-Josza, Simon [(pptx)](./lecture%20slides/6.Basic%20QFT,%20Deustch-Josza%20and%20Simon%20algorithms.pptx), [(pdf: Simon)](./lecture%20slides/Simon.pdf)
   2. Grover algorithm and applications [(pptx)](./lecture%20slides/7.Grover%20algorithms%20and%20applications.pptx), [(pdf: Grover1)](./lecture%20slides/Grover1.pdf), [(pdf: Grover 2-dim geometry)](./lecture%20slides/Grover_geometry.pdf), [(pdf: Grover2)](./lecture%20slides/Grover2.pdf)
+  1. QFT implementation [(pdf: QFT)](./lecture%20slides/QFT_circuit.pdf)
+  2. Shor [(pdf: Shor)](./lecture%20slides/Shor.pdf)
