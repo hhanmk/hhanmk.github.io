@@ -35,7 +35,7 @@ The author names are in alphabetical order unless marked with *.
 19. Shallow quantum circuit for generating extremely low-entangled approximate state designs*
 ##### Wonjun Lee, Minki Hhan, [Gil Young Cho][gil-young-cho], Hyukjoon Kwon <br> [Physical Review Letter](https://doi.org/10.1103/p966-lcgs), 2026 <br> [arxiv](https://arxiv.org/abs/2507.17871)
   16. A Note on Output Length of One-Way State Generators and EFIs
-##### Minki Hhan, [Tomoyuki Morimae][tomoyuki-morimae], [Takashi Yamakawa][takashi-yamakawa] <br> [Communications in Cryptology](https://doi.org/10.62056/a63ziv7sf), 2025 <br> [arxiv](https://arxiv.org/abs/2312.16025)
+##### Minki Hhan, [Tomoyuki Morimae][tomoyuki-morimae], [Takashi Yamakawa][takashi-yamakawa] <br> [Communications in Cryptology](https://doi.org/10.62056/av4fbnja5), 2025 <br> [arxiv](https://arxiv.org/abs/2312.16025)
   1. Trade-off between Information Gain and Disturbance in Local Discrimination of Entangled Quantum States*
 ##### Youngrong Lim, Minki Hhan, Hyukjoon Kwon <br> [Quantum Science and Technology](https://doi.org/10.1088/2058-9565/adc034), 2025 <br> [arxiv](https://arxiv.org/abs/2308.16032), [Quantum Resources 2023](https://2023.quantumresources.science/)
   7. Quantum Programming of the Satisfiability Problem with Rydberg Atom Graphs*
