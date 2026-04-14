@@ -24,6 +24,12 @@ description: Minki Hhan
 
 
 ### Not-refereed Talks
+- Lifting Theorem(s) from Classical to Quantum Security
+##### Apr. 2026, [GAPS Seminar](https://gapsworkshop.github.io/online/), Online
+- Quantum Generic Group Model and Lower Bounds
+##### Oct. 2025, [Kyoto Quantum Crypto Workshop 2](https://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/KyotoQcrypt2/program.php), Kyoto, Japan
+- Cryptography in Quantum World
+##### Aug. 2025, [KAIST-KIAS Quantum Information Workshop](http://events.kias.re.kr/h/KIASQI25/), Daejeon, Korea
 - How to prove a statement is hard to prove in TCS? (or, how not to construct pseudorandom unitaries from pseudorandom states)
 ##### Mar. 2025, KIAS, Seoul, Korea
 - Limits on the Provable Consequences of Pseudorandom Quantum States
