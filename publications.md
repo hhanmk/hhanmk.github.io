@@ -7,11 +7,11 @@ The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
  21. Scalable Enumeration of Pareto-optimal Polymers for Computing Equilibrium Concentrations
-##### Archit Patil, Minki Hhan, [David Soloveichik](david-soloveichik) <br> DNA32
+##### Archit Patil, Minki Hhan, [David Soloveichik][david-soloveichik] <br> DNA32
  20. From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight
 ##### Minki Hhan, Ga Hee Hong, Jiseung Kim, Changmin Lee, Jeong Hwan Lee <br> S&P 2026 (to appear)
  19. Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems
-##### Hamidreza Akef, Minki Hhan, [David Soloveichik](david-soloveichik) <br> [DNA31](https://doi.org/10.4230/LIPIcs.DNA.31.10), [arxiv](https://arxiv.org/abs/2507.12699)
+##### Hamidreza Akef, Minki Hhan, [David Soloveichik][david-soloveichik] <br> [DNA31](https://doi.org/10.4230/LIPIcs.DNA.31.10), [arxiv](https://arxiv.org/abs/2507.12699)
  18. Quantum Lifting for Invertible Permutations and Ideal Ciphers
 ##### Alexandru Cojocaru, Minki Hhan, [Qipeng Liu][qipeng-liu], [Takashi Yamakawa][takashi-yamakawa], Aaram Yun <br> [Crypto 2025](https://doi.org/10.1007/978-3-032-01878-6_16), [eprint](https://eprint.iacr.org/2025/738), [arxiv](https://arxiv.org/abs/2504.18188) <br> QCrypt 2025, QIP 2026
  18. Pseudorandom Function-like States from Common Haar Unitary
