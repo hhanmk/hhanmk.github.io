@@ -6,6 +6,8 @@ description: Minki Hhan
 The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
+ 21. Scalable Enumeration of Pareto-optimal Polymers for Computing Equilibrium Concentrations
+##### Archit Patil, Minki Hhan, [David Soloveichik](david-soloveichik) <br> DNA32
  20. From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight
 ##### Minki Hhan, Ga Hee Hong, Jiseung Kim, Changmin Lee, Jeong Hwan Lee <br> S&P 2026 (to appear)
  19. Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems
