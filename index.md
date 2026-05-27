@@ -48,6 +48,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 * * *
 
 #### Recent News
+- (May. 2026) Invited to be a PC member of Eurocrypt 2027.
 - (May. 2026) A paper was accepted at [DNA32](https://dna32.sciencesconf.org/).
 - (Mar. 2026) The quantum design paper was accepted as PRL.
 - (Mar. 2026) The new hybrid attack was accepted at DCC.
@@ -58,6 +59,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 - (Sep. 2025) The quantum OWSG output length paper was accepted at CiC
 - (Aug. 2025) The common Haar random unitary model paper was accepted at TCC 2025 and (May. 2025) [TQC 2025](https://tqc-conference.org/) for presentation
 - (Aug. 2025) I gave a lecture (in Korean) at [KIAS-KAIST Quantum information workshop](http://events.kias.re.kr/h/KIASQI25/)
+  
 * * *
 
 
