@@ -2,7 +2,7 @@
 layout: default
 ---
 
-*I am recruiting students interested in the theory of quantum computing and cryptography.*
+*I am recruiting students with strong math/theory of computer science backgrounds interested in the theory of quantum computing and cryptography.*
 * * *
 
 My name is Minki Hhan (한민기, 韓旻琪).
