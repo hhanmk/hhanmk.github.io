@@ -101,7 +101,7 @@ I do not include reviews before 2022.
 - [Talks](./talks.html)
 
 - Program Committee
-##### Eurocrypt ([2027](https://eurocrypt.iacr.org/2027/),[2026](https://eurocrypt.iacr.org/2026/)), Asiacrypt ([2026](https://asiacrypt.iacr.org/2026/),[2025](https://asiacrypt.iacr.org/2025/]), [QCrypt 2024](https://2024.qcrypt.net/), PKC (2027), [ISC 2025](https://isc25.skku.edu/call-for-papers/), [LATINCRYPT 2023](https://www.espe.edu.ec/latincrypt/)
+##### Eurocrypt ([2027](https://eurocrypt.iacr.org/2027/),[2026](https://eurocrypt.iacr.org/2026/)), Asiacrypt ([2026](https://asiacrypt.iacr.org/2026/),[2025](https://asiacrypt.iacr.org/2025/)), [QCrypt 2024](https://2024.qcrypt.net/), PKC 2027, [ISC 2025](https://isc25.skku.edu/call-for-papers/), [LATINCRYPT 2023](https://www.espe.edu.ec/latincrypt/)
 
 - Organizing Committee
 ##### AQIS 2023
