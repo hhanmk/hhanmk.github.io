@@ -24,10 +24,12 @@ description: Minki Hhan
 
 
 ### Not-refereed Talks
+- Introduction to Cryptography
+##### Jul. 2026, DGIST Cryptography Summer Camp, Daegu, Korea
 - From quantum physics to cryptography: Past, Present, and Future
-##### Jun. 2026, Hanyang University (ERIKA), Ansan, Korea
-- Spooky Quantum World (Korean, [Youtube](https://youtu.be/siM07TJVZPQ?si=B_SouJd-qSE8-YSs))
-##### May. 2026, [Open Turing](https://open-turing.github.io/), Daejeon, Korea
+##### Jun. 2026, Hanyang University (ERICA), Ansan, Korea
+- Spooky Quantum World
+##### May. 2026, [열린튜링(Open Turing)](https://open-turing.github.io/), Daejeon, Korea (Korean, [Youtube](https://youtu.be/siM07TJVZPQ?si=B_SouJd-qSE8-YSs))
 - From Quantum Physics to Cryptography
 ##### May. 2026, Sungshin Women's University, Seoul, Korea (Hosted by [Joohee Lee](https://sungshincrypto.github.io/))
 - Cryptography in Quantum World
