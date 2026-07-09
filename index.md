@@ -86,12 +86,12 @@ Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/
 ##### [John Bostanci](https://www.johnbostanci.com/) (Colombia University) <br> [Nick Spooner](https://spooner.cc/) (Warwick University) <br> Kuo-Chin Chen (Foxconn Research) <br> Ryu Hayakawa (Kyoto University)
 - Review experiences
 In the middle of 2025, I gave up counting the precise number of my reviews. The following may omit many. Delagated reviews are not counted.
- Last update = 2026/2/24
-2026: TCC (1) Asiacrypt (7) TQC (1) Crypto (3) Eurocrypt (6) PKC (1) QIP (2)                                                   SUM = 21
+ Last update = 2026/7/9
+2026: CFail (1) TCC (1) Asiacrypt (7) TQC (1) Crypto (3) Eurocrypt (6) PKC (1) QIP (2)                                         SUM = 22
 2025: TCC (2) Asiacrypt (8) QCrypt (2) TQC(1) Crypto (4) STOC (1) QIP (1) Eurocrypt (2) DCC (1) PRL (1) Quantum (1)            SUM = 24
 2024: Asiacrypt (1) Crypto (1) PRX quantum (1) TCC (2) QCrypt (10) TQC (1) PQCrypto (2) CIC (1)                                SUM = 19
 2023: Eurocrypt (1) Asiacrypt (1) Crypto (2) QIP (3) TQC (3) Latincrypt (5) ACNS (1)                                           SUM = 16
-                                                                                                                              TOTAL = 80
+                                                                                                                              TOTAL = 81
 I do not include reviews before 2022.
 -->
 
