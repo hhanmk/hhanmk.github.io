@@ -24,6 +24,14 @@ description: Minki Hhan
 
 
 ### Not-refereed Talks
+- From quantum physics to cryptography: Past, Present, and Future
+##### Jun. 2026, Hanyang University (ERIKA), Ansan, Korea
+- Spooky Quantum World (Korean, [Youtube](https://youtu.be/siM07TJVZPQ?si=B_SouJd-qSE8-YSs))
+##### May. 2026, [Open Turing](https://open-turing.github.io/), Daejeon, Korea
+- From Quantum Physics to Cryptography
+##### May. 2026, Sungshin Women's University, Seoul, Korea (Hosted by [Joohee Lee](https://sungshincrypto.github.io/))
+- Cryptography in Quantum World
+##### May. 2026, [KAIST CS Colloquium](https://cs.kaist.ac.kr/colloquium/), Daejeon, Korea
 - Lifting Theorem(s) from Classical to Quantum Security
 ##### Apr. 2026, [GAPS Seminar](https://gapsworkshop.github.io/online/), Online
 - Quantum Generic Group Model and Lower Bounds
