@@ -52,6 +52,8 @@ The author names are in alphabetical order unless marked with *.
 ##### [Jung Hee Cheon][jung-hee-cheon], Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://doi.org/10.1109/ACCESS.2018.2850361), 2018 <br> [eprint](https://eprint.iacr.org/2018/397)
 
 **Preprints**
+ 11. Solving the Shortest Vector Problem in 2^0.6039n Time via Mid-point Hessian
+##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2026/1597), [arxiv](https://arxiv.org/abs/2608.02478), 2026
  19. On Limits on the Provable Consequences of Quantum Pseudorandomness
 ##### [Samuel Bouaziz--Ermann][samuel-bouaziz-ermann], Minki Hhan, Garazi Muguruza, [Quoc-Huy Vu][quoc-huy-vu] <br> [eprint](https://eprint.iacr.org/2025/1863), [arxiv](https://arxiv.org/abs/2510.05393), 2025
  19. Proofs of quantum memory
