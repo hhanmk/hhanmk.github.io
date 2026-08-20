@@ -6,6 +6,12 @@ description: Minki Hhan
 The author names are in alphabetical order unless marked with *.
 
 **Refereed Conference Papers**
+ 19. Quantum Cryptography without Entanglement
+##### Minki Hhan, [Tomoyuki Morimae][tomoyuki-morimae], [Keita Xagawa][keita-xagawa] <br> TCC 2026
+ 19. Proofs of quantum memory
+##### Minki Hhan, [Tomoyuki Morimae][tomoyuki-morimae], Yasuaki Okinaka, [Takashi Yamakawa][takashi-yamakawa] <br> TCC 2026, [eprint](https://eprint.iacr.org/2025/1837), [arxiv](https://arxiv.org/abs/2510.04159)
+ 19. On Limits on the Provable Consequences of Quantum Pseudorandomness
+##### [Samuel Bouaziz--Ermann][samuel-bouaziz-ermann], Minki Hhan, Garazi Muguruza, [Quoc-Huy Vu][quoc-huy-vu] <br> Asiacrypt 2026, [eprint](https://eprint.iacr.org/2025/1863), [arxiv](https://arxiv.org/abs/2510.05393)
  21. Scalable Enumeration of Pareto-optimal Polymers for Computing Equilibrium Concentrations
 ##### Archit Patil, Minki Hhan, [David Soloveichik][david-soloveichik] <br> DNA32
  20. From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight
@@ -54,10 +60,6 @@ The author names are in alphabetical order unless marked with *.
 **Preprints**
  11. Solving the Shortest Vector Problem in 2^0.6039n Time via Mid-point Hessian
 ##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2026/1597), [arxiv](https://arxiv.org/abs/2608.02478), 2026
- 19. On Limits on the Provable Consequences of Quantum Pseudorandomness
-##### [Samuel Bouaziz--Ermann][samuel-bouaziz-ermann], Minki Hhan, Garazi Muguruza, [Quoc-Huy Vu][quoc-huy-vu] <br> [eprint](https://eprint.iacr.org/2025/1863), [arxiv](https://arxiv.org/abs/2510.05393), 2025
- 19. Proofs of quantum memory
-##### Minki Hhan, [Tomoyuki Morimae][tomoyuki-morimae], Yasuaki Okinaka, [Takashi Yamakawa][takashi-yamakawa] <br> [eprint](https://eprint.iacr.org/2025/1837), [arxiv](https://arxiv.org/abs/2510.04159), 2025
   14. Oracle Recording for Non-Uniform Random Oracles, and its Applications
 ##### Minki Hhan, Aaram Yun <br> [eprint](https://eprint.iacr.org/2023/1371), 2023 
   15. On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications (tentative title)
