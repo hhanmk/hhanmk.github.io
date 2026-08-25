@@ -48,6 +48,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 * * *
 
 #### Recent News
+- (Aug. 2026) Invited to be a PC member of QIP 2027.
 - (Aug. 2026) The proof of quantum memory paper and the quantum cryptography without entanglement paper were accepted at [TCC 2026](https://tcc.iacr.org/2026/).
 - (Aug. 2026) The short PRS/QPRG separation was accepted at [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/).
 - (May. 2026) Invited to be a PC member of Eurocrypt 2027.
@@ -89,11 +90,11 @@ Kyoto University (hosted by [Tomoyuki Morimae](http://www2.yukawa.kyoto-u.ac.jp/
 - Review experiences
 In the middle of 2025, I gave up counting the precise number of my reviews. The following may omit many. Delagated reviews are not counted.
  Last update = 2026/7/9
-2026: CFail (1) TCC (1) Asiacrypt (7) TQC (1) Crypto (3) Eurocrypt (6) PKC (1) QIP (2)                                         SUM = 22
+2026: PKC (2), Nature Physic (1), CFail (1) TCC (1) Asiacrypt (7) TQC (1) Crypto (3) Eurocrypt (6) PKC (1) QIP (2)                                         SUM = 25
 2025: TCC (2) Asiacrypt (8) QCrypt (2) TQC(1) Crypto (4) STOC (1) QIP (1) Eurocrypt (2) DCC (1) PRL (1) Quantum (1)            SUM = 24
 2024: Asiacrypt (1) Crypto (1) PRX quantum (1) TCC (2) QCrypt (10) TQC (1) PQCrypto (2) CIC (1)                                SUM = 19
 2023: Eurocrypt (1) Asiacrypt (1) Crypto (2) QIP (3) TQC (3) Latincrypt (5) ACNS (1)                                           SUM = 16
-                                                                                                                              TOTAL = 81
+                                                                                                                              TOTAL = 84
 I do not include reviews before 2022.
 -->
 
@@ -103,7 +104,7 @@ I do not include reviews before 2022.
 - [Talks](./talks.html)
 
 - Program Committee
-##### Eurocrypt ([2027](https://eurocrypt.iacr.org/2027/),[2026](https://eurocrypt.iacr.org/2026/)), Asiacrypt ([2026](https://asiacrypt.iacr.org/2026/),[2025](https://asiacrypt.iacr.org/2025/)), [QCrypt 2024](https://2024.qcrypt.net/), PKC 2027, [ISC 2025](https://isc25.skku.edu/call-for-papers/), [LATINCRYPT 2023](https://www.espe.edu.ec/latincrypt/)
+##### Eurocrypt ([2027](https://eurocrypt.iacr.org/2027/),[2026](https://eurocrypt.iacr.org/2026/)), Asiacrypt ([2026](https://asiacrypt.iacr.org/2026/),[2025](https://asiacrypt.iacr.org/2025/)), QIP 2027, [QCrypt 2024](https://2024.qcrypt.net/), PKC 2027, [ISC 2025](https://isc25.skku.edu/call-for-papers/), [LATINCRYPT 2023](https://www.espe.edu.ec/latincrypt/)
 
 - Organizing Committee
 ##### AQIS 2023
