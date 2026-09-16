@@ -13,7 +13,7 @@ The author names are in alphabetical order unless marked with *.
  19. On Limits on the Provable Consequences of Quantum Pseudorandomness
 ##### [Samuel Bouaziz--Ermann][samuel-bouaziz-ermann], Minki Hhan, Garazi Muguruza, [Quoc-Huy Vu][quoc-huy-vu] <br> Asiacrypt 2026, [eprint](https://eprint.iacr.org/2025/1863), [arxiv](https://arxiv.org/abs/2510.05393)
  21. Scalable Enumeration of Pareto-optimal Polymers for Computing Equilibrium Concentrations
-##### Archit Patil, Minki Hhan, [David Soloveichik][david-soloveichik] <br> DNA32
+##### Archit Patil, Minki Hhan, [David Soloveichik][david-soloveichik] <br> DNA32, [arixv](https://arxiv.org/abs/2608.21370)
  20. From Perfect to Approximate Hints: Efficient LWE Secret Recovery Leveraging Low Hamming Weight
 ##### Minki Hhan, Ga Hee Hong, Jiseung Kim, Changmin Lee, Jeong Hwan Lee <br> S&P 2026, [eprint](https://eprint.iacr.org/2026/1081)
  19. Computing and Bounding Equilibrium Concentrations in Athermic Chemical Systems
@@ -58,6 +58,10 @@ The author names are in alphabetical order unless marked with *.
 ##### [Jung Hee Cheon][jung-hee-cheon], Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://doi.org/10.1109/ACCESS.2018.2850361), 2018 <br> [eprint](https://eprint.iacr.org/2018/397)
 
 **Preprints**
+ 11. Derivatives of Quantum Randomness: Separating Pseudorandom Unitaries from Pseudorandom (Function-like) States
+##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2026/2002), [arxiv](https://arxiv.org/abs/2609.14626), 2026
+ 11. Finding a Shortest Vector and More in 2^(n/2+o(n)) Time using -ary Coset Difference Tree
+##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2026/1859), [arxiv](https://arxiv.org/abs/2609.02764), 2026
  11. Solving the Shortest Vector Problem in 2^0.6039n Time via Mid-point Hessian
 ##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2026/1597), [arxiv](https://arxiv.org/abs/2608.02478), 2026
   14. Oracle Recording for Non-Uniform Random Oracles, and its Applications
