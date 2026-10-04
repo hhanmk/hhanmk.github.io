@@ -48,6 +48,7 @@ My primary topics include quantum algorithms and (post-)quantum cryptography. I 
 * * *
 
 #### Recent News
+- (Sep. 2026) Invited to be a PC member of Crypto 2027.
 - (Aug. 2026) Invited to be a PC member of QIP 2027.
 - (Aug. 2026) The proof of quantum memory paper and the quantum cryptography without entanglement paper were accepted at [TCC 2026](https://tcc.iacr.org/2026/).
 - (Aug. 2026) The short PRS/QPRG separation was accepted at [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/).
