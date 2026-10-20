@@ -58,6 +58,16 @@ The author names are in alphabetical order unless marked with *.
 ##### [Jung Hee Cheon][jung-hee-cheon], Minki Hhan, Jiseung Kim, Changmin Lee <br> [IEEE Access](https://doi.org/10.1109/ACCESS.2018.2850361), 2018 <br> [eprint](https://eprint.iacr.org/2018/397)
 
 **Preprints**
+ 1. Lattices with Large Kissing Number from Local Density
+##### [Huck Bennett][huck-bennett], Minki Hhan, Zihan Li, [Noah Stephens-Davidowitz][noah-stephens-davidowitz] <br> [arxiv](https://arxiv.org/abs/2610.14380), 2026
+ 2. Trapdoored Clifford Operators and Applications
+##### Minki Hhan, [Hojune Lee][hojune-lee] <br> [arxiv](https://arxiv.org/abs/2610.01848), 2026
+ 3. Need for Coherent Access in Constructing Quantum Cryptography
+##### Minki Hhan, [Changhun Oh][changhun-oh], [Vaughn Sohn][vaughn-sohn] <br> [arxiv](https://arxiv.org/abs/2609.40301), 2026
+ 4. Quantum Security of XOR of Permutations via Fourier Analysis
+##### [Wonseok Choi][wonseok-choi], Minki Hhan, Junyoung Jang <br> [eprint](https://eprint.iacr.org/2026/2241), [arxiv](https://arxiv.org/abs/2609.34413), 2026
+ 5. An Operator-Norm Approach to Security with Quantum Advice
+##### Minki Hhan, Sunghyuk Jo, [Qipeng Liu][qipeng-liu] <br> [eprint](https://eprint.iacr.org/2026/2244), [arxiv](https://arxiv.org/abs/2609.37467), 2026
  11. Derivatives of Quantum Randomness: Separating Pseudorandom Unitaries from Pseudorandom (Function-like) States
 ##### Minki Hhan <br> [eprint](https://eprint.iacr.org/2026/2002), [arxiv](https://arxiv.org/abs/2609.14626), 2026
  11. Finding a Shortest Vector and More in 2^(n/2+o(n)) Time using -ary Coset Difference Tree
@@ -72,6 +82,11 @@ The author names are in alphabetical order unless marked with *.
 ##### Beomgeun Cho, Minki Hhan, [Taehyun Kim][taehyun-kim], Jeonghoon Lee, [Yixin Shen][yixin-shen] <br> [eprint](https://eprint.iacr.org/2024/1700), [arxiv](https://arxiv.org/abs/2410.15565) 2024
 
 <!-- coauthor keys -->
+[huck-bennett]: https://home.cs.colorado.edu/~hbennett/
+[noah-stephens-davidowitz]: https://www.noahsd.com/
+[hojune-lee]: https://hojune-lee.github.io/
+[changhun-oh]: https://sites.google.com/view/changhun/home
+[vaughn-sohn]: https://webb-c.github.io/
 [qipeng-liu]: https://sites.google.com/view/qipengliu
 [takashi-yamakawa]: https://sites.google.com/view/takashiyamakawa
 [tomoyuki-morimae]: http://www2.yukawa.kyoto-u.ac.jp/~tomoyuki.morimae/index.html
