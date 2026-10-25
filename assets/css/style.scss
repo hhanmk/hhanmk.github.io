@@ -138,3 +138,51 @@ body {
     padding: 16px;
   }
 }
+
+/* Positions, Education, Research Activities 등 */
+.main-content h3,
+.main-content h4 {
+  font-size: 14pt;
+  font-weight: 700;
+}
+
+/* 경력·학력·뉴스의 일반 목록 */
+.main-content ul > li {
+  font-size: 12pt;
+  font-weight: 400;
+}
+
+/* Publications의 분류 제목이 들어 있는 문단 */
+.main-content > p:has(> strong:only-child) {
+  margin: 14px 0 6px;
+}
+
+/* Refereed Conference Papers, Journal Articles, Preprints */
+.main-content > p > strong:only-child {
+  font-size: 14pt;
+  font-weight: 700;
+  color: #159957;
+}
+
+/* 번호 목록의 논문·발표 제목 */
+.main-content > ol > li {
+  font-size: 13pt;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #30383c;
+}
+
+/* 서로 다른 논문 사이의 간격 */
+.main-content > ol > li + li {
+  margin-top: 10px;
+}
+
+/* 논문 제목 아래의 저자·학회·저널 정보 */
+.main-content > ol > li > h5 {
+  margin: 0;
+  padding-top: 2px;
+  font-size: 12pt;
+  font-weight: 400;
+  line-height: 1.4;
+  color: #606c71;
+}
