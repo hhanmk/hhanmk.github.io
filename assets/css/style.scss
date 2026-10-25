@@ -3,173 +3,138 @@
 
 @import 'jekyll-theme-cayman';
 
-/* 상단 배너 */
-.page-header {
-  padding: 2rem 1rem;
-}
-
-.project-name {
-  font-size: 26px;
-}
-
-.project-tagline {
-  font-size: 14px;
-  margin: 5px 0 8px;
-}
-
-/* 전체 본문 */
-.main-content {
-  max-width: 64rem;
-  padding: 20px 36px;
-  font-size: 12px;
+/* 기본 글자 크기 */
+body {
+  font-size: 12pt;
   line-height: 1.4;
 }
 
-/* 제목 크기 */
-.main-content h1 {
-  font-size: 16px;
+/* 상단 배너와 연락처 */
+.page-header {
+  padding: 24px 16px;
+  font-size: 12pt;
+  line-height: 1.4;
 }
 
-.main-content h2 {
-  font-size: 14px;
-}
-.main-content h3 {
-  font-size: 12px;
-}
-
-.main-content h4 {
-  font-size: 12px;
+.project-name {
+  margin: 0 0 6px;
+  font-size: 16pt;
+  line-height: 1.25;
 }
 
-.main-content h5 {
-  font-size: 11px;
+.project-tagline {
+  margin: 0 0 8px;
+  font-size: 12pt;
+  line-height: 1.4;
 }
 
-.main-content h6 {
-  font-size: 10px;
+/* 본문: 긴 뉴스 문장이 너무 길게 펼쳐지지 않도록 */
+.main-content {
+  max-width: 56rem;
+  margin: 0 auto;
+  padding: 20px 32px;
+  font-size: 12pt;
+  line-height: 1.4;
 }
 
-/* 모든 제목의 기본 간격 */
+/* 제목 공통 */
 .main-content h1,
 .main-content h2,
 .main-content h3,
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-  margin-top: 2px;
-  margin-bottom: 2px;
+  margin: 12px 0 4px;
+  padding: 0;
   line-height: 1.3;
-  font-weight: 600;
+  font-weight: 700;
 }
 
-/* 일반 문단 */
+.main-content h1 {
+  font-size: 16pt;
+}
+
+.main-content h2 {
+  font-size: 14pt;
+}
+
+/* 실제 페이지의 주요 섹션 제목 크기 통일 */
+.main-content h3,
+.main-content h4 {
+  font-size: 13pt;
+}
+
+.main-content h5,
+.main-content h6 {
+  font-size: 12pt;
+}
+
+/* 소개 문단 */
 .main-content p {
-  margin-top: 0;
-  margin-bottom: 2px;
+  margin: 0 0 6px;
 }
 
 /* 목록 전체 */
 .main-content ul,
 .main-content ol {
-  margin-top: 0;
-  margin-bottom: 3px;
-  padding-left: 23px;
+  margin: 0 0 6px;
+  padding-left: 22px;
 }
 
-/* 목록 내 항목 간격 */
+/* 경력·학력 항목: 추가 여백 없이 줄 높이로 조절 */
 .main-content li {
-  margin-bottom: 2px;
+  margin: 0;
+  padding: 0;
+  line-height: 1.35;
 }
 
+/* Publications, Talks 등의 문단 여백 제거 */
 .main-content li p {
-  margin: 0 0 2px;
+  margin: 0;
 }
 
-/* 구분선 간격 */
-.main-content hr {
-  height: 1px;
-  margin: 2px 0 2px;
+/* 학회 목록은 설명문처럼 표시 */
+.main-content li h5,
+.main-content li h6 {
+  margin: 0;
+  font-size: 12pt;
+  font-weight: 400;
+  line-height: inherit;
+  color: inherit;
 }
 
-/* 구분선 바로 다음 제목 (Positions 등) */
-.main-content hr + h4 {
-  margin-top: 2px;
-}
-
-/* 목록 다음 제목 (Education 등) */
+/* 목록 다음 섹션 */
 .main-content ul + h4,
 .main-content ol + h4 {
+  margin-top: 10px;
+}
+
+/* 긴 뉴스 항목끼리는 약간의 간격 추가 */
+.main-content #recent-news + ul > li + li {
   margin-top: 2px;
-}
-
-/* 모바일 */
-@media screen and (max-width: 600px) {
-  .page-header {
-    padding: 1.5rem 1rem;
-  }
-
-  .project-name {
-    font-size: 22px;
-  }
-
-  .main-content {
-    padding: 12px;
-    font-size: 10px;
-  }
-}
-
-
-/* 제목 간격 강제 조정 */
-.main-content h4 {
-  margin-top: 5px !important;
-  margin-bottom: 2px !important;
-  padding: 0 !important;
-}
-
-/* 제목 바로 아래 목록 */
-.main-content h4 + ul {
-  margin-top: 0 !important;
-  margin-bottom: 5px !important;
-}
-
-/* 목록 바로 다음 제목 */
-.main-content ul + h4 {
-  margin-top: 7px !important;
-}
-
-/* 목록 항목 자체 */
-.main-content li {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  line-height: 1.25 !important;
-}
-
-/* Cayman 테마의 연속 목록 간격 제거 */
-.main-content li + li {
-  margin-top: 0 !important;
 }
 
 /* 구분선 */
 .main-content hr {
-  margin: 5px 0 !important;
-  padding: 0 !important;
+  height: 1px;
+  margin: 10px 0;
+  padding: 0;
+  border: 0;
 }
 
-/* 구분선 직후 제목 */
+/* 구분선 뒤에서 제목 여백이 커지는 것 방지 */
+.main-content hr + h3,
 .main-content hr + h4 {
-  margin-top: 3px !important;
+  margin-top: 0;
 }
 
-/* 문단 */
-.main-content p {
-  margin-top: 0 !important;
-  margin-bottom: 4px !important;
-}
+/* 모바일: 글자 크기는 유지하고 좌우 여백만 축소 */
+@media screen and (max-width: 600px) {
+  .page-header {
+    padding: 20px 12px;
+  }
 
-/* 빈 문단 제거 */
-.main-content p:empty {
-  display: none;
+  .main-content {
+    padding: 16px;
+  }
 }
-
